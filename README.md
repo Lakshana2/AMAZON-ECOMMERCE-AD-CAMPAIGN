@@ -64,7 +64,7 @@ Most engaging customer segments and locations
 <img width="1397" height="808" alt="Dashboard2 png" src="https://github.com/user-attachments/assets/b7158cc9-8e5c-4ef4-879b-e313a310a010" />
 
 
-
+<img width="1400" height="804" alt="Dashboard3 png" src="https://github.com/user-attachments/assets/ad01f6a5-d9c0-4bb2-825b-445a34f255d4" />
 
 
 
