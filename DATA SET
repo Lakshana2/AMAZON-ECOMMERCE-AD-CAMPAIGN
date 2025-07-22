@@ -1,0 +1,1065 @@
+	Company	Campaign_Type	Gender	Age	Duration	Channel_Used	Conversion_Rate	Acquisition_Cost	ROI	Location	Clicks	Impressions	Engagement_Score	Customer_Segment
+1	Nike	Email	Male	25-35	15 days	Instagram	0.04	15,909.00	7.55	Chennai	871	7272	10	Fitness freak
+2	HRX	Influencer	Female	45-60	15 days	Google Ads	0.04	16,420.00	3.08	Mumbai	422	8057	9	Stylist
+3	HRX	Display	Male	25-35	16 days	Instagram	0.03	12,523.00	2.59	Indore	141	6401	7	Fitness freak
+5	The north face	Display	Male	18-25	60 days	Website	0.08	19,989.00	2.52	Kolkata	892	9385	5	Fitness freak
+6	Wildcraft 	Influencer	Male	35-45	60 days	Facebook	0.05	19,356.00	2	Indore	542	5678	4	Fitness freak
+7	Nike	Social Media	Female	25-35	30 days	Google Ads	0.11	15,553.00	2.25	Chennai	622	1984	1	Fitness freak
+8	Nike	Email	Male	35-45	15 days	YouTube	0.07	7,511.00	5.5	Mumbai	766	8631	6	Stylist
+9	HRX	Search	Female	35-45	60 days	YouTube	0.1	7,986.00	4.5	Kolkata	247	7818	2	Stylist
+10	The north face	Influencer	Female	18-25	60 days	Facebook	0.09	8,512.00	6.39	Chennai	459	8145	3	Techie
+12	Nike	Search	Female	35-45	30 days	Website	0.02	19,334.00	3.9	Indore	819	5090	1	Nomadics
+13	Wildcraft 	Social Media	Male	35-45	60 days	Facebook	0.1	18,762.00	3.53	Mumbai	256	9072	8	Nomadics
+14	HRX	Search	Male	35-45	30 days	Facebook	0.08	16,425.00	6.26	Indore	410	8675	3	Fitness freak
+16	Nike	Search	Female	35-45	15 days	Instagram	0.02	7,121.00	6.13	Kolkata	896	1601	1	Nomadics
+17	The north face	Email	Male	25-35	60 days	Instagram	0.09	17,813.00	7.53	Chennai	621	4851	6	Stylist
+19	Nike	Display	Female	45-60	15 days	Facebook	0.02	10,240.00	3.5	Mumbai	127	2294	7	Stylist
+20	Nike	Social Media	Female	25-35	45 days	Email	0.13	13,240.00	7.58	Delhi	621	7722	1	Fitness freak
+21	Puma	Email	Male	25-35	45 days	Email	0.11	17,841.00	3.28	Kolkata	519	8498	10	Nomadics
+22	The north face	Email	Male	25-35	45 days	Email	0.04	11,815.00	6.33	Delhi	312	6121	5	Fitness freak
+23	Puma	Email	Male	18-25	15 days	Facebook	0.14	19,908.00	4.42	Delhi	785	3687	9	Nomadics
+24	HRX	Email	Male	35-45	15 days	Instagram	0.07	10,811.00	5.1	Delhi	361	9888	2	Fitness freak
+25	The north face	Display	Male	45-60	45 days	Facebook	0.05	16,298.00	5.99	Delhi	222	1816	7	Nomadics
+26	HRX	Influencer	Male	45-60	30 days	Email	0.13	14,228.00	4.79	Mumbai	317	7254	1	Nomadics
+28	Puma	Search	Male	35-45	30 days	Website	0.12	8,308.00	6.58	Delhi	305	4856	3	Stylist
+29	HRX	Social Media	Female	18-25	15 days	Instagram	0.03	7,521.00	2.35	Indore	398	3323	7	Nomadics
+30	Nike	Social Media	Female	25-35	60 days	Facebook	0.14	8,273.00	4.52	Mumbai	869	3544	9	Techie
+31	The north face	Influencer	Female	25-35	15 days	Google Ads	0.05	15,970.00	6.64	Mumbai	869	3261	1	Techie
+32	HRX	Display	Female	18-25	60 days	Email	0.14	5,613.00	5.48	Mumbai	604	8624	10	Stylist
+33	Puma	Influencer	Female	25-35	45 days	Email	0.05	19,056.00	3.28	Indore	643	6062	7	Fitness freak
+34	The north face	Email	Male	25-35	45 days	Website	0.03	7,826.00	3.61	Chennai	701	8281	5	Techie
+35	Wildcraft 	Email	Female	18-25	45 days	Facebook	0.13	11,290.00	7.81	Kolkata	700	7870	5	Nomadics
+37	HRX	Influencer	Male	25-35	60 days	Google Ads	0.09	8,468.00	7.46	Mumbai	435	6359	10	Techie
+39	Wildcraft 	Social Media	Female	25-35	45 days	Facebook	0.06	11,287.00	5.63	Indore	164	5445	4	Nomadics
+42	Nike	Social Media	Female	45-60	45 days	Email	0.11	15,277.00	2.02	Indore	128	7479	8	Stylist
+43	Puma	Display	Male	18-25	30 days	Google Ads	0.13	7,124.00	3.99	Chennai	507	8526	10	Nomadics
+45	Nike	Search	Male	25-35	45 days	Facebook	0.11	9,900.00	5.21	Kolkata	864	3093	6	Techie
+46	HRX	Influencer	Female	25-35	45 days	Email	0.14	19,255.00	6.1	Delhi	425	1514	10	Techie
+47	Wildcraft 	Search	Male	35-45	15 days	Website	0.04	10,593.00	7.99	Delhi	871	1831	4	Techie
+48	Nike	Display	Female	25-35	45 days	Facebook	0.1	8,823.00	7.87	Mumbai	965	5167	1	Techie
+49	The north face	Email	Male	35-45	45 days	Email	0.04	12,318.00	5.21	Indore	279	9448	4	Fitness freak
+50	Nike	Display	Male	35-45	45 days	Google Ads	0.02	12,853.00	6.43	Mumbai	798	1508	9	Techie
+51	Wildcraft 	Social Media	Male	45-60	15 days	YouTube	0.03	6,524.00	2.92	Indore	518	8364	2	Stylist
+52	Nike	Social Media	Male	35-45	60 days	YouTube	0.05	14,419.00	3.29	Mumbai	528	6018	7	Nomadics
+53	Puma	Email	Female	18-25	30 days	Instagram	0.12	12,197.00	4.77	Chennai	381	2739	1	Fitness freak
+54	HRX	Email	Female	45-60	45 days	YouTube	0.14	12,105.00	7.77	Kolkata	903	6383	10	Nomadics
+55	The north face	Social Media	Male	18-25	60 days	Instagram	0.06	5,568.00	2.14	Kolkata	705	7471	1	Nomadics
+56	The north face	Influencer	Female	25-35	15 days	Instagram	0.08	10,885.00	3.51	Chennai	903	4441	5	Techie
+57	HRX	Social Media	Female	45-60	30 days	Website	0.06	18,354.00	2.78	Delhi	842	4627	2	Nomadics
+58	Wildcraft 	Search	Female	18-25	45 days	Instagram	0.04	8,249.00	6.68	Delhi	129	8405	9	Fitness freak
+60	Wildcraft 	Influencer	Female	18-25	60 days	Google Ads	0.05	13,769.00	3.83	Chennai	139	1036	5	Stylist
+61	Puma	Social Media	Male	45-60	30 days	Google Ads	0.01	19,293.00	5.5	Mumbai	293	5352	3	Techie
+62	Nike	Search	Male	25-35	15 days	Google Ads	0.1	9,363.00	7.49	Chennai	416	4193	10	Techie
+63	The north face	Influencer	Male	45-60	15 days	YouTube	0.05	10,632.00	3.22	Mumbai	982	6055	3	Stylist
+65	HRX	Email	Male	45-60	60 days	Instagram	0.04	8,155.00	2.79	Chennai	245	4372	5	Stylist
+66	Wildcraft 	Influencer	Male	25-35	60 days	Google Ads	0.11	5,711.00	2.76	Chennai	597	1123	7	Fitness freak
+67	The north face	Search	Male	18-25	15 days	Email	0.02	14,298.00	4.4	Kolkata	378	4022	3	Techie
+69	HRX	Display	Female	18-25	60 days	YouTube	0.01	17,981.00	7.77	Mumbai	621	3101	1	Fitness freak
+70	The north face	Email	Female	35-45	45 days	Website	0.08	14,009.00	5.44	Kolkata	832	7815	3	Fitness freak
+71	Nike	Display	Male	45-60	60 days	Google Ads	0.12	16,501.00	7.62	Delhi	403	9043	3	Fitness freak
+72	Puma	Email	Female	25-35	30 days	Facebook	0.08	12,504.00	4.67	Mumbai	311	5848	6	Nomadics
+73	Wildcraft 	Influencer	Female	45-60	15 days	Email	0.02	5,683.00	4.86	Delhi	239	1921	5	Nomadics
+74	HRX	Influencer	Male	25-35	15 days	Website	0.12	6,094.00	5.71	Indore	409	3379	7	Fitness freak
+75	The north face	Search	Male	18-25	15 days	Facebook	0.14	7,158.00	4.85	Kolkata	483	1447	7	Stylist
+78	Nike	Social Media	Male	35-45	30 days	Google Ads	0.02	11,345.00	5.96	Chennai	556	1693	4	Stylist
+80	HRX	Email	Female	35-45	60 days	YouTube	0.1	9,580.00	7.74	Delhi	881	2302	2	Nomadics
+81	The north face	Social Media	Female	35-45	30 days	Website	0.03	6,549.00	3.97	Delhi	974	7017	9	Fitness freak
+82	Wildcraft 	Email	Female	18-25	45 days	Facebook	0.13	7,094.00	5.76	Delhi	354	8315	5	Nomadics
+84	The north face	Social Media	Female	18-25	60 days	Website	0.01	19,404.00	4.59	Delhi	188	2772	9	Stylist
+85	HRX	Social Media	Male	25-35	60 days	Instagram	0.04	17,535.00	7.9	Mumbai	873	7145	7	Techie
+86	Nike	Search	Female	25-35	45 days	Website	0.07	12,725.00	2.57	Delhi	956	6260	9	Stylist
+88	HRX	Social Media	Female	25-35	60 days	Email	0.13	14,169.00	6.81	Kolkata	110	6240	5	Techie
+89	Puma	Influencer	Male	35-45	45 days	YouTube	0.09	14,308.00	6.56	Chennai	235	3508	10	Nomadics
+90	Puma	Influencer	Male	18-25	30 days	Google Ads	0.03	10,516.00	6.77	Delhi	180	9197	1	Fitness freak
+91	The north face	Influencer	Male	25-35	45 days	Website	0.1	13,521.00	5.97	Kolkata	157	7524	4	Techie
+92	Puma	Search	Male	35-45	60 days	Instagram	0.06	13,336.00	7.18	Indore	151	5877	5	Techie
+93	Wildcraft 	Search	Male	45-60	15 days	Email	0.09	7,568.00	4.78	Delhi	582	4579	3	Fitness freak
+94	HRX	Display	Male	45-60	30 days	Google Ads	0.09	5,993.00	5.79	Indore	918	2077	10	Nomadics
+95	HRX	Social Media	Male	18-25	60 days	Email	0.14	19,865.00	2.24	Indore	210	9702	10	Techie
+96	Nike	Social Media	Male	18-25	60 days	Instagram	0.04	14,815.00	5.15	Chennai	397	4686	4	Techie
+99	Wildcraft 	Influencer	Female	45-60	30 days	Website	0.06	16,061.00	2.05	Indore	252	4888	8	Stylist
+100	Wildcraft 	Display	Female	25-35	45 days	Google Ads	0.13	12,036.00	3.98	Indore	616	8233	1	Techie
+101	The north face	Social Media	Female	25-35	45 days	Email	0.12	14,010.00	7.84	Kolkata	617	9660	2	Stylist
+102	Nike	Influencer	Male	35-45	30 days	Facebook	0.1	8,123.00	7.28	Chennai	976	3562	3	Nomadics
+103	Wildcraft 	Influencer	Male	35-45	30 days	Email	0.07	5,718.00	3.74	Chennai	151	4686	6	Fitness freak
+104	Puma	Display	Male	18-25	30 days	YouTube	0.06	11,652.00	5.24	Mumbai	464	4600	6	Techie
+105	HRX	Social Media	Female	18-25	60 days	Email	0.02	19,671.00	7.41	Kolkata	822	6697	2	Stylist
+107	Wildcraft 	Display	Female	35-45	45 days	Website	0.08	18,871.00	4.67	Mumbai	269	5829	6	Stylist
+108	Nike	Search	Female	35-45	60 days	Facebook	0.1	8,492.00	5.58	Kolkata	140	5082	8	Stylist
+109	Puma	Display	Male	25-35	30 days	Website	0.08	14,734.00	3.33	Indore	198	5592	3	Fitness freak
+110	Nike	Influencer	Female	18-25	30 days	Instagram	0.07	16,912.00	7.04	Mumbai	149	5528	4	Stylist
+111	Nike	Display	Male	25-35	60 days	Website	0.02	7,217.00	6.33	Delhi	742	5621	9	Nomadics
+113	Wildcraft 	Search	Male	18-25	15 days	YouTube	0.05	19,183.00	6.26	Delhi	930	8131	6	Stylist
+114	The north face	Social Media	Male	25-35	15 days	Google Ads	0.13	5,565.00	4.13	Delhi	109	4957	2	Fitness freak
+115	Nike	Influencer	Male	35-45	30 days	Email	0.07	5,173.00	4.15	Kolkata	215	2342	8	Fitness freak
+116	HRX	Social Media	Male	25-35	45 days	Email	0.03	14,250.00	7.48	Mumbai	625	8897	5	Nomadics
+117	Puma	Display	Female	25-35	60 days	Email	0.13	6,384.00	3.27	Kolkata	510	8111	1	Fitness freak
+118	Wildcraft 	Display	Male	35-45	30 days	Google Ads	0.12	18,775.00	5.54	Indore	755	3724	3	Techie
+119	Puma	Display	Female	45-60	30 days	YouTube	0.09	16,451.00	3.31	Mumbai	939	9348	9	Nomadics
+120	HRX	Email	Female	25-35	15 days	Email	0.05	12,769.00	2.4	Delhi	267	9167	7	Nomadics
+121	Nike	Search	Female	25-35	45 days	Google Ads	0.12	10,303.00	4.67	Indore	491	2767	9	Stylist
+122	Nike	Social Media	Female	18-25	45 days	YouTube	0.05	8,076.00	5.52	Delhi	820	4303	2	Stylist
+124	The north face	Social Media	Male	35-45	15 days	Instagram	0.14	16,382.00	6.48	Delhi	694	5845	8	Nomadics
+125	Wildcraft 	Search	Female	25-35	30 days	Facebook	0.06	17,727.00	5.2	Mumbai	561	5467	6	Nomadics
+126	Wildcraft 	Influencer	Female	45-60	30 days	Instagram	0.09	14,738.00	2.8	Chennai	456	2421	8	Techie
+127	Wildcraft 	Social Media	Male	25-35	60 days	Facebook	0.02	15,889.00	7.32	Indore	831	3094	7	Nomadics
+128	Wildcraft 	Search	Female	25-35	45 days	YouTube	0.05	7,275.00	2.56	Mumbai	675	8330	7	Stylist
+129	Nike	Search	Female	25-35	60 days	Email	0.11	14,784.00	7.53	Indore	781	2190	9	Fitness freak
+130	The north face	Search	Female	45-60	15 days	Email	0.07	11,460.00	5.74	Chennai	383	6942	1	Techie
+131	Wildcraft 	Display	Male	25-35	60 days	YouTube	0.1	8,102.00	7.25	Indore	533	9133	2	Stylist
+132	Puma	Influencer	Male	35-45	15 days	Instagram	0.09	11,314.00	3.81	Delhi	967	3560	1	Techie
+133	HRX	Display	Male	25-35	30 days	Facebook	0.07	15,336.00	3.81	Kolkata	787	5413	2	Techie
+135	The north face	Email	Male	18-25	15 days	YouTube	0.05	7,993.00	4.65	Chennai	505	5222	10	Stylist
+136	Wildcraft 	Email	Male	45-60	15 days	Google Ads	0.14	8,216.00	3.04	Delhi	813	3003	1	Techie
+139	Nike	Social Media	Female	35-45	15 days	Facebook	0.09	13,111.00	2.58	Kolkata	206	5619	6	Fitness freak
+140	Nike	Influencer	Female	35-45	60 days	Email	0.11	5,256.00	5.85	Chennai	257	5480	3	Stylist
+141	HRX	Influencer	Female	35-45	60 days	Google Ads	0.04	11,418.00	7.09	Chennai	770	3482	5	Stylist
+142	Puma	Social Media	Female	45-60	60 days	Email	0.11	9,920.00	2.17	Mumbai	627	2980	6	Nomadics
+143	The north face	Social Media	Female	18-25	30 days	Google Ads	0.04	8,997.00	3.97	Indore	160	2813	5	Fitness freak
+145	Wildcraft 	Social Media	Female	18-25	45 days	Google Ads	0.09	13,993.00	3.22	Chennai	666	4967	1	Stylist
+147	The north face	Search	Male	18-25	15 days	YouTube	0.07	11,810.00	3.78	Chennai	690	6570	6	Techie
+148	The north face	Influencer	Male	18-25	60 days	Facebook	0.14	17,170.00	3.52	Delhi	706	7617	8	Techie
+149	HRX	Social Media	Female	18-25	15 days	Google Ads	0.05	16,910.00	6.09	Mumbai	446	8952	3	Nomadics
+150	The north face	Social Media	Female	35-45	60 days	YouTube	0.02	16,438.00	4.94	Mumbai	752	1305	6	Stylist
+151	Nike	Social Media	Male	35-45	15 days	Instagram	0.01	7,847.00	3.05	Chennai	700	1737	2	Nomadics
+152	HRX	Email	Female	25-35	60 days	Google Ads	0.08	12,334.00	6.34	Delhi	588	9926	8	Nomadics
+153	Nike	Social Media	Male	18-25	45 days	Facebook	0.02	15,104.00	7.63	Kolkata	380	3203	3	Nomadics
+155	Nike	Display	Male	45-60	45 days	Google Ads	0.04	16,578.00	7.42	Kolkata	993	6533	10	Techie
+157	Nike	Social Media	Male	25-35	30 days	Email	0.03	17,710.00	4.45	Indore	540	8760	5	Techie
+158	HRX	Email	Female	25-35	30 days	Email	0.04	5,817.00	4.25	Indore	125	6310	6	Stylist
+159	Wildcraft 	Display	Male	18-25	15 days	Facebook	0.03	19,647.00	5.58	Chennai	482	6343	5	Nomadics
+160	Wildcraft 	Search	Male	45-60	45 days	Facebook	0.08	8,635.00	3.96	Mumbai	501	2774	4	Fitness freak
+161	The north face	Influencer	Male	25-35	45 days	YouTube	0.08	13,976.00	3.07	Kolkata	614	4447	9	Stylist
+162	Puma	Influencer	Male	35-45	15 days	YouTube	0.09	16,973.00	4.77	Indore	723	7785	10	Stylist
+163	The north face	Social Media	Female	18-25	15 days	Facebook	0.04	14,134.00	4.82	Mumbai	736	4860	6	Nomadics
+164	Nike	Email	Female	35-45	45 days	Website	0.11	12,844.00	7.1	Delhi	960	5166	7	Stylist
+165	HRX	Social Media	Male	18-25	45 days	Google Ads	0.07	15,954.00	6.49	Mumbai	237	5051	3	Stylist
+166	Puma	Influencer	Female	35-45	15 days	Email	0.01	14,431.00	7.9	Kolkata	598	7311	7	Nomadics
+169	Puma	Display	Female	18-25	60 days	YouTube	0.08	9,707.00	3.64	Delhi	717	5536	4	Techie
+170	The north face	Search	Female	35-45	60 days	Google Ads	0.04	16,813.00	5.3	Indore	918	8603	4	Fitness freak
+171	Nike	Search	Male	25-35	45 days	Instagram	0.08	9,094.00	7.66	Mumbai	632	3918	6	Fitness freak
+172	The north face	Search	Male	45-60	15 days	Website	0.06	16,710.00	6.9	Delhi	717	3266	2	Techie
+175	Puma	Search	Male	25-35	45 days	YouTube	0.06	8,629.00	3.02	Chennai	465	5523	4	Techie
+176	The north face	Influencer	Male	45-60	60 days	Google Ads	0.13	8,880.00	4.59	Mumbai	375	8253	1	Stylist
+177	The north face	Social Media	Male	18-25	15 days	Email	0.07	19,116.00	6.1	Mumbai	233	3785	1	Fitness freak
+179	The north face	Email	Female	18-25	15 days	Facebook	0.13	14,380.00	7.93	Chennai	353	5415	5	Nomadics
+180	The north face	Email	Female	25-35	15 days	YouTube	0.13	9,838.00	6.1	Indore	224	5694	6	Stylist
+181	The north face	Display	Male	35-45	45 days	Website	0.01	11,194.00	4.01	Mumbai	759	9567	1	Techie
+182	HRX	Search	Female	25-35	30 days	Google Ads	0.08	7,012.00	2.43	Delhi	495	5721	3	Nomadics
+183	Nike	Display	Female	18-25	30 days	Google Ads	0.05	9,821.00	6.61	Kolkata	253	8991	8	Nomadics
+185	The north face	Email	Male	35-45	60 days	YouTube	0.09	7,977.00	7.43	Kolkata	141	5541	8	Nomadics
+187	Wildcraft 	Influencer	Male	25-35	30 days	YouTube	0.13	11,030.00	6.92	Chennai	126	3777	1	Stylist
+188	Nike	Email	Male	25-35	45 days	Google Ads	0.15	10,724.00	2.17	Delhi	719	7002	5	Techie
+189	Wildcraft 	Display	Male	45-60	45 days	Facebook	0.13	15,634.00	5.55	Kolkata	187	4659	5	Nomadics
+194	The north face	Display	Female	45-60	15 days	Instagram	0.08	13,434.00	7.43	Delhi	465	9525	7	Stylist
+195	Wildcraft 	Search	Male	25-35	45 days	YouTube	0.04	7,190.00	6.19	Mumbai	319	4726	4	Fitness freak
+196	HRX	Search	Female	25-35	60 days	Email	0.1	8,977.00	7.8	Kolkata	644	4875	10	Fitness freak
+197	Puma	Influencer	Female	35-45	30 days	Email	0.01	6,011.00	6.5	Chennai	951	7278	6	Stylist
+198	The north face	Social Media	Female	18-25	15 days	Google Ads	0.06	10,651.00	6.24	Mumbai	475	3723	6	Stylist
+199	Wildcraft 	Email	Male	25-35	15 days	Website	0.04	19,912.00	6.99	Mumbai	417	7937	8	Stylist
+200	HRX	Search	Male	45-60	30 days	Google Ads	0.11	18,433.00	6.45	Mumbai	883	3274	2	Fitness freak
+201	Wildcraft 	Display	Male	45-60	15 days	Website	0.12	14,913.00	3.61	Mumbai	610	1053	1	Stylist
+203	HRX	Email	Male	25-35	60 days	Google Ads	0.08	5,449.00	4.03	Kolkata	171	9402	2	Techie
+204	Puma	Display	Male	18-25	45 days	Email	0.09	8,320.00	4.62	Chennai	648	1050	6	Nomadics
+206	Puma	Search	Male	45-60	30 days	YouTube	0.04	19,667.00	3.01	Chennai	694	7752	7	Fitness freak
+207	Wildcraft 	Display	Female	45-60	45 days	Website	0.14	19,928.00	4.49	Delhi	377	2659	2	Nomadics
+208	Puma	Display	Female	18-25	30 days	Website	0.01	10,217.00	2.06	Delhi	757	3464	1	Stylist
+209	The north face	Search	Female	18-25	45 days	YouTube	0.06	5,632.00	4.43	Delhi	746	1523	3	Fitness freak
+210	The north face	Social Media	Female	25-35	30 days	Instagram	0.06	7,117.00	4.94	Mumbai	443	1600	10	Fitness freak
+211	Nike	Social Media	Female	18-25	60 days	Website	0.13	8,220.00	4.42	Mumbai	914	7592	1	Nomadics
+213	Wildcraft 	Influencer	Male	45-60	45 days	Google Ads	0.08	9,163.00	3.88	Mumbai	440	2041	2	Stylist
+214	The north face	Social Media	Male	18-25	45 days	Facebook	0.14	6,759.00	2.26	Mumbai	720	1608	9	Nomadics
+215	The north face	Display	Female	25-35	45 days	Website	0.14	6,424.00	7.03	Delhi	150	2187	7	Nomadics
+216	Puma	Influencer	Female	25-35	30 days	Instagram	0.14	15,248.00	6.42	Mumbai	812	7600	2	Techie
+217	Nike	Search	Female	25-35	60 days	Facebook	0.14	16,507.00	6.36	Mumbai	872	9362	2	Techie
+218	Wildcraft 	Display	Female	18-25	15 days	Email	0.06	12,528.00	2.99	Kolkata	660	9371	10	Stylist
+220	HRX	Display	Female	45-60	60 days	Email	0.1	17,615.00	4.18	Kolkata	524	4131	4	Nomadics
+221	The north face	Search	Male	35-45	60 days	YouTube	0.02	5,141.00	2.03	Delhi	565	5577	3	Techie
+222	HRX	Email	Female	35-45	30 days	Instagram	0.14	5,708.00	3	Mumbai	767	7106	4	Fitness freak
+224	Wildcraft 	Social Media	Male	45-60	60 days	Website	0.01	9,869.00	3.44	Kolkata	175	5414	10	Stylist
+225	Wildcraft 	Social Media	Male	18-25	30 days	Email	0.11	6,316.00	7.74	Kolkata	627	9685	4	Techie
+226	Wildcraft 	Social Media	Male	18-25	60 days	Facebook	0.11	17,887.00	2.57	Delhi	364	2205	8	Techie
+227	Wildcraft 	Email	Female	45-60	45 days	Website	0.02	18,194.00	5.71	Chennai	682	7086	5	Techie
+228	Wildcraft 	Email	Male	18-25	15 days	Email	0.12	8,503.00	4.24	Indore	420	4204	1	Stylist
+229	Wildcraft 	Influencer	Female	25-35	30 days	Facebook	0.15	10,899.00	7.48	Indore	149	3439	10	Techie
+230	Nike	Email	Female	35-45	30 days	YouTube	0.07	14,499.00	6.4	Chennai	897	4999	7	Techie
+231	Wildcraft 	Search	Female	45-60	15 days	YouTube	0.09	13,348.00	6.39	Indore	153	5599	6	Techie
+233	Wildcraft 	Email	Male	45-60	15 days	Website	0.02	10,785.00	6.45	Kolkata	795	5274	8	Techie
+234	Puma	Influencer	Male	25-35	30 days	Instagram	0.05	18,355.00	6.16	Chennai	927	6706	2	Nomadics
+235	Wildcraft 	Social Media	Female	25-35	60 days	Google Ads	0.13	7,004.00	4.74	Kolkata	926	3642	2	Nomadics
+236	HRX	Search	Female	45-60	60 days	Instagram	0.12	19,223.00	6.69	Kolkata	293	5429	10	Techie
+237	Wildcraft 	Display	Male	35-45	60 days	Google Ads	0.1	18,534.00	6.49	Mumbai	112	4046	10	Techie
+238	Nike	Social Media	Female	45-60	30 days	Instagram	0.07	15,981.00	6.29	Chennai	815	9571	9	Fitness freak
+239	Wildcraft 	Display	Female	25-35	60 days	Instagram	0.09	16,813.00	6.59	Delhi	565	4551	5	Stylist
+240	Puma	Email	Female	25-35	60 days	Google Ads	0.09	7,247.00	2.6	Chennai	212	2937	5	Techie
+241	HRX	Social Media	Male	18-25	45 days	Instagram	0.1	10,895.00	5.31	Delhi	797	6374	3	Fitness freak
+245	Wildcraft 	Display	Male	18-25	60 days	Website	0.02	5,416.00	2.74	Indore	719	7016	4	Techie
+246	Puma	Influencer	Male	45-60	30 days	Facebook	0.01	6,288.00	4.32	Kolkata	762	6032	2	Fitness freak
+247	Nike	Influencer	Male	35-45	45 days	Google Ads	0.13	8,874.00	2.04	Delhi	856	4882	6	Techie
+248	HRX	Display	Male	45-60	30 days	Website	0.08	12,480.00	5.97	Kolkata	578	5588	6	Stylist
+249	Wildcraft 	Social Media	Female	35-45	60 days	YouTube	0.04	9,872.00	4.89	Delhi	828	5511	8	Stylist
+250	HRX	Influencer	Female	45-60	60 days	YouTube	0.13	17,304.00	6.7	Chennai	757	7227	3	Fitness freak
+251	Puma	Display	Female	25-35	60 days	Google Ads	0.12	16,709.00	6.74	Indore	122	8679	8	Nomadics
+252	The north face	Search	Female	25-35	30 days	Facebook	0.09	18,260.00	5.45	Mumbai	577	3418	1	Stylist
+253	Puma	Influencer	Female	45-60	30 days	Website	0.03	15,320.00	7.63	Indore	470	3614	5	Nomadics
+254	Puma	Display	Male	25-35	30 days	YouTube	0.06	18,606.00	3.9	Kolkata	182	6356	2	Stylist
+255	Wildcraft 	Email	Female	25-35	45 days	Instagram	0.14	6,676.00	3.07	Kolkata	698	2379	6	Stylist
+256	The north face	Influencer	Female	25-35	60 days	Facebook	0.08	10,587.00	5.85	Delhi	430	4200	10	Nomadics
+257	Wildcraft 	Social Media	Male	25-35	30 days	Website	0.08	11,064.00	2.37	Kolkata	279	2412	7	Fitness freak
+258	The north face	Influencer	Male	35-45	60 days	Email	0.07	6,388.00	4.85	Chennai	134	5893	3	Nomadics
+259	HRX	Search	Female	25-35	60 days	Website	0.03	10,159.00	7.35	Chennai	759	7560	7	Nomadics
+260	Nike	Email	Female	18-25	30 days	Google Ads	0.07	11,869.00	3.61	Indore	852	5585	8	Stylist
+261	HRX	Search	Male	35-45	15 days	Website	0.04	14,475.00	2.83	Indore	163	6241	8	Stylist
+262	Puma	Influencer	Female	25-35	60 days	Instagram	0.1	18,059.00	7.7	Chennai	571	5206	8	Stylist
+263	Puma	Display	Male	25-35	60 days	Instagram	0.09	15,271.00	3.5	Delhi	703	5206	6	Fitness freak
+264	Nike	Display	Female	25-35	30 days	Instagram	0.11	10,601.00	3.85	Indore	535	8826	8	Nomadics
+265	Nike	Display	Male	18-25	60 days	Google Ads	0.04	18,506.00	4.16	Chennai	884	9356	9	Nomadics
+266	Wildcraft 	Social Media	Female	35-45	45 days	Facebook	0.11	16,163.00	2.51	Mumbai	100	1556	1	Fitness freak
+267	Puma	Email	Male	45-60	15 days	Instagram	0.13	16,479.00	7.34	Delhi	763	3907	3	Techie
+268	The north face	Display	Female	25-35	30 days	Google Ads	0.07	11,717.00	3.69	Kolkata	667	3435	1	Techie
+269	Wildcraft 	Social Media	Male	35-45	15 days	Facebook	0.02	5,031.00	6.92	Kolkata	227	9664	2	Nomadics
+270	The north face	Influencer	Male	45-60	30 days	Facebook	0.03	15,172.00	5.36	Mumbai	806	1588	10	Stylist
+271	HRX	Email	Male	18-25	45 days	YouTube	0.1	17,145.00	5.67	Chennai	601	7512	1	Nomadics
+272	Wildcraft 	Email	Male	25-35	30 days	Facebook	0.12	11,631.00	7.87	Kolkata	686	8471	8	Stylist
+273	Wildcraft 	Search	Female	35-45	30 days	Email	0.08	19,084.00	4.82	Delhi	820	8991	5	Fitness freak
+274	Puma	Display	Female	18-25	30 days	Website	0.02	11,937.00	6.21	Indore	969	4901	4	Nomadics
+275	The north face	Display	Male	25-35	60 days	Facebook	0.11	11,755.00	7.73	Mumbai	614	3944	2	Stylist
+276	Nike	Email	Female	35-45	15 days	Instagram	0.11	17,403.00	4.92	Delhi	762	7508	9	Fitness freak
+277	Nike	Influencer	Female	25-35	45 days	Instagram	0.06	13,524.00	4.7	Chennai	491	7561	1	Stylist
+278	Wildcraft 	Social Media	Female	18-25	45 days	Website	0.14	14,620.00	3.84	Mumbai	674	3169	7	Fitness freak
+280	Nike	Influencer	Female	45-60	45 days	Facebook	0.12	11,254.00	3.46	Delhi	246	3414	3	Stylist
+281	The north face	Influencer	Male	25-35	60 days	YouTube	0.03	18,545.00	3.78	Mumbai	860	2192	10	Stylist
+282	Nike	Email	Male	25-35	45 days	Google Ads	0.02	10,010.00	6.27	Kolkata	322	2079	1	Stylist
+283	The north face	Search	Male	25-35	30 days	Facebook	0.01	10,677.00	5.03	Mumbai	337	3598	10	Stylist
+284	The north face	Display	Male	25-35	60 days	Instagram	0.12	17,783.00	7.2	Indore	727	8406	7	Fitness freak
+285	Wildcraft 	Influencer	Male	25-35	15 days	Email	0.1	13,288.00	7.28	Indore	248	4332	6	Techie
+286	The north face	Search	Male	18-25	60 days	Google Ads	0.1	18,972.00	5.12	Chennai	438	2818	2	Fitness freak
+288	Nike	Social Media	Female	25-35	60 days	Facebook	0.07	10,639.00	5.59	Mumbai	274	3370	3	Nomadics
+289	The north face	Influencer	Female	35-45	15 days	Email	0.12	7,717.00	2.11	Delhi	444	9635	3	Nomadics
+290	The north face	Social Media	Female	18-25	30 days	Email	0.14	15,241.00	4.05	Chennai	452	9554	3	Nomadics
+291	Nike	Influencer	Male	25-35	45 days	YouTube	0.11	8,372.00	5.44	Mumbai	649	2511	6	Fitness freak
+292	Wildcraft 	Display	Female	35-45	15 days	YouTube	0.06	8,314.00	7.03	Delhi	770	4695	6	Techie
+293	Puma	Social Media	Female	25-35	45 days	Facebook	0.1	17,640.00	2.92	Kolkata	764	7625	2	Fitness freak
+294	Wildcraft 	Influencer	Male	18-25	45 days	Google Ads	0.08	19,667.00	6.23	Chennai	357	8593	8	Fitness freak
+295	Puma	Display	Male	18-25	30 days	Google Ads	0.12	18,314.00	7.39	Delhi	435	2098	2	Fitness freak
+296	Puma	Search	Male	25-35	45 days	Google Ads	0.02	7,840.00	7.81	Mumbai	948	9371	8	Techie
+298	Puma	Search	Male	25-35	15 days	Google Ads	0.14	19,499.00	7.72	Delhi	747	4577	1	Fitness freak
+299	Puma	Email	Male	35-45	45 days	Website	0.11	15,166.00	3.97	Indore	310	3158	6	Nomadics
+301	Nike	Social Media	Female	25-35	15 days	Google Ads	0.06	5,108.00	6.01	Kolkata	743	8585	2	Fitness freak
+302	Nike	Email	Female	25-35	45 days	Website	0.11	14,043.00	2.58	Indore	950	6600	4	Techie
+303	HRX	Influencer	Female	45-60	45 days	Email	0.1	19,516.00	5.58	Kolkata	129	8938	8	Techie
+304	The north face	Email	Female	25-35	60 days	Email	0.01	19,709.00	2.32	Indore	812	8989	10	Techie
+305	The north face	Influencer	Male	25-35	60 days	Website	0.11	16,267.00	4.64	Kolkata	445	9377	10	Nomadics
+306	The north face	Display	Female	25-35	15 days	Website	0.03	11,119.00	2.76	Kolkata	586	8134	10	Techie
+308	Nike	Email	Female	25-35	30 days	Google Ads	0.03	14,795.00	6.9	Chennai	456	6447	4	Fitness freak
+311	HRX	Influencer	Male	25-35	60 days	Website	0.06	10,711.00	5.01	Chennai	803	9901	6	Techie
+312	Wildcraft 	Email	Male	25-35	60 days	Instagram	0.14	17,265.00	5.09	Mumbai	193	7897	8	Techie
+313	Wildcraft 	Email	Male	25-35	30 days	YouTube	0.14	16,522.00	4.05	Mumbai	106	4745	7	Stylist
+314	Nike	Email	Male	25-35	60 days	Facebook	0.03	7,544.00	4.35	Mumbai	932	9337	1	Nomadics
+315	The north face	Display	Male	45-60	30 days	Instagram	0.11	11,306.00	7.91	Indore	908	3882	3	Stylist
+317	Wildcraft 	Display	Female	25-35	60 days	Facebook	0.04	16,178.00	3.33	Indore	691	8655	10	Stylist
+318	HRX	Social Media	Female	45-60	60 days	Instagram	0.08	19,818.00	3.78	Indore	418	5442	10	Nomadics
+319	Wildcraft 	Display	Female	25-35	60 days	Google Ads	0.15	8,522.00	6.27	Kolkata	523	4564	8	Techie
+320	Nike	Display	Female	35-45	30 days	Facebook	0.11	10,898.00	4.6	Delhi	965	9911	8	Nomadics
+321	Wildcraft 	Search	Female	25-35	45 days	YouTube	0.06	5,552.00	6.37	Indore	324	3189	2	Techie
+322	Wildcraft 	Influencer	Male	25-35	30 days	Google Ads	0.15	5,676.00	4.74	Kolkata	579	3374	3	Stylist
+323	HRX	Email	Male	25-35	45 days	Website	0.02	7,188.00	2.73	Indore	601	8457	8	Techie
+324	Puma	Social Media	Male	25-35	60 days	YouTube	0.04	8,341.00	6.1	Chennai	743	6993	2	Techie
+325	Puma	Social Media	Female	45-60	30 days	Facebook	0.05	19,176.00	2.31	Chennai	811	6460	9	Nomadics
+327	Puma	Email	Female	18-25	45 days	Facebook	0.04	12,822.00	5.54	Mumbai	750	5339	9	Stylist
+328	The north face	Social Media	Female	25-35	15 days	Website	0.12	18,687.00	4.55	Chennai	206	4165	8	Fitness freak
+329	Puma	Email	Male	35-45	15 days	Website	0.1	7,462.00	4.97	Kolkata	760	3698	6	Techie
+330	The north face	Display	Female	18-25	30 days	Google Ads	0.05	9,975.00	6.5	Delhi	397	1088	5	Fitness freak
+331	Nike	Search	Male	18-25	30 days	YouTube	0.08	7,496.00	7.71	Indore	779	4547	2	Fitness freak
+332	The north face	Email	Female	45-60	60 days	Instagram	0.04	12,058.00	4.78	Chennai	593	9482	7	Nomadics
+333	HRX	Social Media	Male	45-60	45 days	Facebook	0.06	7,677.00	2.03	Delhi	232	2438	6	Nomadics
+334	Wildcraft 	Influencer	Male	35-45	60 days	Google Ads	0.14	7,385.00	2.83	Delhi	698	4127	3	Stylist
+337	The north face	Search	Female	45-60	30 days	Facebook	0.13	18,907.00	4.24	Mumbai	225	3258	4	Stylist
+341	Puma	Influencer	Female	25-35	30 days	Instagram	0.08	16,642.00	5.78	Chennai	117	8223	6	Stylist
+342	Nike	Display	Female	35-45	15 days	Website	0.01	12,243.00	4.03	Kolkata	318	6986	8	Stylist
+343	HRX	Search	Male	25-35	45 days	Instagram	0.14	13,253.00	7.39	Chennai	636	5432	5	Fitness freak
+344	Wildcraft 	Influencer	Male	25-35	30 days	Website	0.08	6,953.00	2.03	Kolkata	235	2908	9	Techie
+345	Nike	Influencer	Female	45-60	30 days	Facebook	0.13	11,367.00	4.85	Delhi	518	1829	9	Stylist
+346	Wildcraft 	Influencer	Female	35-45	60 days	YouTube	0.07	12,215.00	3.19	Indore	543	3255	4	Nomadics
+347	The north face	Display	Male	18-25	60 days	YouTube	0.02	8,489.00	5.98	Chennai	283	6279	5	Nomadics
+349	Nike	Email	Female	35-45	45 days	Website	0.12	12,547.00	2.14	Delhi	995	1097	2	Nomadics
+350	The north face	Display	Female	45-60	45 days	Email	0.03	10,036.00	6.41	Indore	997	3760	9	Techie
+351	The north face	Display	Male	18-25	15 days	Google Ads	0.09	16,948.00	2.95	Mumbai	401	6272	6	Nomadics
+353	HRX	Influencer	Male	25-35	60 days	Website	0.1	18,490.00	4.33	Kolkata	753	3523	6	Techie
+354	Puma	Influencer	Male	25-35	45 days	YouTube	0.1	12,180.00	5.06	Kolkata	223	7414	10	Fitness freak
+355	The north face	Influencer	Male	35-45	15 days	Website	0.09	19,688.00	6.72	Kolkata	343	7322	7	Stylist
+356	HRX	Influencer	Male	25-35	30 days	Facebook	0.02	15,920.00	7.62	Chennai	753	5578	3	Nomadics
+357	HRX	Influencer	Male	18-25	60 days	Facebook	0.04	5,520.00	7.32	Mumbai	849	2490	9	Nomadics
+359	The north face	Display	Female	25-35	30 days	YouTube	0.05	6,932.00	4.85	Indore	834	7072	1	Stylist
+361	Puma	Display	Female	45-60	15 days	Website	0.01	13,266.00	5.9	Chennai	920	2923	4	Techie
+362	Wildcraft 	Social Media	Female	25-35	15 days	Instagram	0.09	17,871.00	3.39	Mumbai	366	4405	1	Techie
+363	Puma	Social Media	Female	25-35	30 days	Facebook	0.14	12,234.00	7.5	Delhi	597	2119	1	Nomadics
+364	Nike	Search	Male	18-25	60 days	Email	0.03	17,525.00	2.11	Kolkata	971	2929	4	Techie
+365	HRX	Search	Female	25-35	60 days	YouTube	0.1	19,833.00	3.71	Indore	477	6488	5	Techie
+366	HRX	Email	Female	18-25	60 days	Email	0.03	13,035.00	2.23	Chennai	740	4832	9	Fitness freak
+367	Puma	Social Media	Male	25-35	30 days	Facebook	0.08	13,939.00	7.25	Delhi	552	9091	2	Fitness freak
+368	Puma	Search	Male	18-25	45 days	Email	0.03	10,604.00	2.27	Chennai	448	2389	1	Stylist
+369	Wildcraft 	Influencer	Female	35-45	60 days	YouTube	0.1	11,191.00	7.94	Indore	276	1275	10	Fitness freak
+370	The north face	Email	Female	45-60	45 days	Website	0.06	9,263.00	6.38	Delhi	610	9016	4	Nomadics
+371	Nike	Display	Male	18-25	45 days	Instagram	0.05	19,387.00	3.54	Kolkata	883	4754	10	Techie
+372	Nike	Email	Female	25-35	45 days	Email	0.06	9,835.00	6.93	Chennai	984	4051	9	Nomadics
+374	Nike	Display	Female	35-45	15 days	Website	0.03	19,975.00	6.81	Indore	878	5876	1	Techie
+376	Puma	Display	Female	45-60	45 days	Email	0.02	12,655.00	4.83	Kolkata	948	7522	7	Nomadics
+377	The north face	Social Media	Male	25-35	60 days	Google Ads	0.13	5,212.00	6.14	Kolkata	820	8217	5	Fitness freak
+378	The north face	Display	Female	18-25	30 days	Instagram	0.14	6,413.00	5.35	Chennai	485	2295	1	Stylist
+379	Nike	Influencer	Male	25-35	15 days	Facebook	0.05	6,763.00	2.38	Indore	199	8765	10	Nomadics
+380	Nike	Social Media	Male	45-60	15 days	Facebook	0.04	10,705.00	5.21	Chennai	263	2409	5	Techie
+382	The north face	Display	Male	35-45	45 days	Website	0.04	7,009.00	6.11	Delhi	934	8403	10	Nomadics
+383	The north face	Email	Female	25-35	30 days	Facebook	0.05	17,056.00	7.14	Delhi	977	4657	2	Techie
+384	Wildcraft 	Search	Female	45-60	60 days	Website	0.11	15,825.00	4.21	Kolkata	146	1341	10	Stylist
+385	Wildcraft 	Display	Male	45-60	30 days	YouTube	0.03	6,612.00	5.81	Chennai	257	9813	10	Stylist
+386	Wildcraft 	Email	Female	45-60	15 days	Google Ads	0.14	6,598.00	5.88	Chennai	180	3449	10	Techie
+387	Wildcraft 	Search	Female	18-25	60 days	Instagram	0.01	16,884.00	2.07	Indore	828	4810	4	Fitness freak
+389	Nike	Social Media	Female	25-35	30 days	Facebook	0.12	9,664.00	7.38	Indore	899	5580	4	Stylist
+390	Wildcraft 	Search	Female	45-60	15 days	Instagram	0.14	17,852.00	2.13	Kolkata	469	1451	9	Fitness freak
+391	HRX	Social Media	Male	35-45	45 days	Email	0.03	14,174.00	7.7	Mumbai	690	3487	4	Stylist
+392	Puma	Social Media	Male	25-35	15 days	Google Ads	0.13	14,917.00	2.39	Indore	143	7826	7	Nomadics
+393	The north face	Social Media	Male	18-25	45 days	YouTube	0.12	13,294.00	7.77	Kolkata	695	1216	9	Stylist
+394	Wildcraft 	Display	Male	45-60	15 days	Email	0.03	8,817.00	3.61	Indore	475	7947	3	Stylist
+395	Wildcraft 	Search	Male	35-45	15 days	YouTube	0.01	8,953.00	5.69	Indore	968	5639	1	Stylist
+397	The north face	Email	Male	35-45	30 days	Email	0.12	10,272.00	2.75	Chennai	377	4574	7	Nomadics
+398	Wildcraft 	Email	Female	45-60	45 days	Email	0.1	7,179.00	4.81	Mumbai	212	3363	4	Techie
+400	Nike	Social Media	Female	18-25	60 days	YouTube	0.11	6,475.00	5.23	Delhi	402	9025	4	Stylist
+401	Puma	Influencer	Male	25-35	15 days	Facebook	0.09	16,889.00	3	Chennai	848	7971	6	Stylist
+402	The north face	Search	Female	18-25	45 days	Google Ads	0.02	19,531.00	6.82	Kolkata	696	3488	7	Techie
+403	Wildcraft 	Social Media	Female	45-60	45 days	Google Ads	0.15	14,980.00	5.73	Kolkata	213	4843	6	Stylist
+404	Puma	Display	Male	25-35	15 days	Website	0.11	19,705.00	4.05	Mumbai	752	6502	5	Fitness freak
+405	HRX	Influencer	Male	25-35	30 days	YouTube	0.06	14,124.00	3.86	Delhi	917	8200	6	Techie
+406	The north face	Social Media	Male	18-25	15 days	Email	0.13	11,200.00	5.17	Indore	592	3918	1	Nomadics
+407	Puma	Influencer	Male	45-60	45 days	YouTube	0.07	5,847.00	5.09	Chennai	271	8527	4	Techie
+408	The north face	Display	Male	25-35	60 days	Facebook	0.11	13,677.00	6.7	Mumbai	668	8898	6	Nomadics
+409	HRX	Display	Male	18-25	30 days	Facebook	0.1	11,987.00	6.26	Indore	165	6935	4	Nomadics
+410	HRX	Search	Female	45-60	15 days	YouTube	0.1	14,408.00	5.13	Mumbai	853	2538	7	Nomadics
+411	Wildcraft 	Search	Female	35-45	60 days	Google Ads	0.04	7,626.00	3.59	Chennai	190	5532	3	Techie
+413	HRX	Social Media	Female	25-35	60 days	Website	0.04	7,384.00	5.26	Mumbai	837	5065	7	Stylist
+414	Wildcraft 	Search	Female	25-35	45 days	YouTube	0.12	15,930.00	5	Chennai	492	9329	8	Stylist
+415	Puma	Email	Male	18-25	15 days	YouTube	0.12	8,252.00	3.58	Mumbai	157	9828	6	Stylist
+416	Nike	Search	Female	25-35	15 days	Google Ads	0.11	8,961.00	3.66	Indore	745	9299	10	Stylist
+417	The north face	Social Media	Female	35-45	45 days	Google Ads	0.13	5,538.00	3.65	Delhi	446	3415	7	Nomadics
+418	HRX	Email	Female	45-60	15 days	Website	0.05	9,884.00	2.16	Indore	243	2027	6	Stylist
+419	The north face	Influencer	Male	18-25	45 days	YouTube	0.08	15,450.00	5.97	Chennai	244	8819	3	Techie
+420	Wildcraft 	Social Media	Male	18-25	60 days	Google Ads	0.11	7,616.00	4.19	Kolkata	546	9056	1	Stylist
+421	Puma	Display	Male	25-35	30 days	Google Ads	0.05	18,933.00	3.74	Indore	761	8152	5	Techie
+422	Wildcraft 	Email	Male	25-35	30 days	Website	0.07	7,594.00	3.61	Chennai	690	1957	9	Nomadics
+423	The north face	Search	Male	35-45	30 days	YouTube	0.06	17,770.00	6.14	Mumbai	468	5085	10	Stylist
+424	Wildcraft 	Email	Male	18-25	45 days	Email	0.1	18,056.00	5.73	Delhi	153	5463	3	Stylist
+425	Wildcraft 	Email	Male	25-35	60 days	YouTube	0.13	7,005.00	7.63	Mumbai	607	2979	9	Fitness freak
+426	HRX	Social Media	Male	18-25	15 days	Website	0.14	17,616.00	2.74	Mumbai	688	5687	8	Stylist
+427	Puma	Influencer	Female	45-60	60 days	Website	0.13	5,218.00	7.06	Chennai	362	3570	2	Nomadics
+428	Puma	Search	Female	45-60	45 days	Facebook	0.02	19,561.00	7.8	Chennai	762	9240	6	Techie
+429	HRX	Search	Female	18-25	30 days	YouTube	0.12	9,408.00	3.74	Chennai	797	6019	1	Techie
+431	Puma	Search	Female	25-35	30 days	Facebook	0.06	14,503.00	7.7	Kolkata	957	3975	7	Nomadics
+432	Wildcraft 	Search	Male	25-35	15 days	Google Ads	0.05	7,004.00	2.77	Indore	455	5268	3	Stylist
+434	Nike	Display	Male	25-35	60 days	Google Ads	0.11	6,724.00	2.48	Indore	757	6270	9	Techie
+435	The north face	Social Media	Female	25-35	45 days	Google Ads	0.13	6,920.00	3.64	Delhi	856	7735	7	Fitness freak
+436	The north face	Search	Female	45-60	30 days	Website	0.01	6,572.00	7.29	Mumbai	714	9664	5	Techie
+437	The north face	Search	Female	25-35	30 days	Facebook	0.03	11,836.00	7.27	Indore	205	9794	6	Fitness freak
+438	Wildcraft 	Display	Female	45-60	60 days	Email	0.09	19,159.00	5.88	Kolkata	414	2057	4	Stylist
+439	HRX	Email	Male	18-25	30 days	Instagram	0.11	11,979.00	2.39	Mumbai	239	1085	2	Stylist
+440	The north face	Influencer	Female	25-35	30 days	YouTube	0.02	17,727.00	5.24	Mumbai	825	1503	1	Nomadics
+442	Nike	Search	Female	35-45	60 days	YouTube	0.03	14,576.00	5.4	Delhi	721	4968	5	Stylist
+444	Wildcraft 	Email	Male	45-60	15 days	Website	0.08	17,218.00	2.19	Chennai	864	1363	9	Nomadics
+445	HRX	Influencer	Male	25-35	45 days	Google Ads	0.13	6,881.00	3.94	Indore	200	4617	7	Stylist
+446	Nike	Display	Male	25-35	60 days	Instagram	0.11	14,583.00	4.09	Delhi	736	6674	1	Stylist
+448	HRX	Email	Male	18-25	60 days	Website	0.08	11,921.00	4.44	Kolkata	973	3741	4	Nomadics
+449	HRX	Email	Female	18-25	45 days	YouTube	0.07	10,557.00	2.67	Delhi	319	9470	8	Nomadics
+450	Puma	Display	Female	18-25	60 days	Instagram	0.09	13,132.00	3.31	Indore	423	5221	9	Techie
+452	The north face	Social Media	Female	25-35	15 days	YouTube	0.14	8,064.00	7.88	Delhi	904	6571	6	Fitness freak
+453	HRX	Email	Male	18-25	30 days	Website	0.13	6,768.00	3.95	Indore	299	3143	2	Nomadics
+456	Wildcraft 	Search	Female	35-45	45 days	Google Ads	0.08	15,189.00	2.65	Chennai	956	3336	3	Stylist
+457	Wildcraft 	Social Media	Male	25-35	60 days	Website	0.13	6,740.00	5.99	Indore	222	3745	3	Stylist
+458	Nike	Social Media	Female	25-35	15 days	Google Ads	0.05	8,874.00	7.94	Kolkata	201	5075	3	Fitness freak
+459	The north face	Email	Female	25-35	60 days	YouTube	0.12	6,230.00	6.15	Delhi	961	5658	6	Fitness freak
+460	Nike	Search	Female	35-45	60 days	Instagram	0.04	14,066.00	7.68	Delhi	232	3986	3	Fitness freak
+462	Nike	Social Media	Male	45-60	60 days	Instagram	0.14	13,346.00	5.11	Chennai	870	8776	6	Nomadics
+463	Wildcraft 	Influencer	Male	35-45	45 days	YouTube	0.1	15,733.00	3.42	Mumbai	917	9882	7	Stylist
+464	HRX	Email	Male	45-60	60 days	Instagram	0.1	8,115.00	5.89	Mumbai	794	1369	9	Fitness freak
+465	The north face	Search	Male	45-60	60 days	Instagram	0.07	5,641.00	3.57	Delhi	373	8899	5	Techie
+466	Nike	Influencer	Male	25-35	45 days	Facebook	0.05	17,210.00	3.02	Indore	159	6103	4	Fitness freak
+467	Puma	Influencer	Male	18-25	15 days	Website	0.07	18,912.00	2.98	Indore	403	4417	4	Fitness freak
+468	Nike	Email	Male	18-25	60 days	Email	0.02	12,928.00	5.94	Indore	806	5670	10	Techie
+469	Nike	Display	Female	45-60	15 days	YouTube	0.06	17,395.00	4.24	Kolkata	319	8873	7	Techie
+470	HRX	Display	Female	45-60	45 days	Google Ads	0.05	14,808.00	4.42	Indore	488	4153	10	Nomadics
+471	The north face	Influencer	Female	35-45	30 days	YouTube	0.11	7,434.00	5.76	Mumbai	810	6847	8	Techie
+472	Puma	Email	Female	35-45	45 days	Instagram	0.13	6,819.00	5.27	Delhi	648	2052	7	Stylist
+474	Nike	Influencer	Male	35-45	30 days	Email	0.08	7,689.00	7.22	Kolkata	107	9379	6	Stylist
+475	HRX	Search	Female	35-45	15 days	Website	0.14	7,838.00	5.89	Indore	712	1913	5	Stylist
+476	Nike	Search	Female	25-35	30 days	Instagram	0.01	10,664.00	4.8	Chennai	765	1996	5	Stylist
+477	HRX	Social Media	Male	45-60	15 days	Facebook	0.11	6,021.00	4.46	Indore	788	5675	8	Techie
+479	HRX	Email	Female	45-60	30 days	Instagram	0.05	10,560.00	5.26	Delhi	527	4980	3	Techie
+480	Wildcraft 	Social Media	Female	25-35	15 days	Instagram	0.14	19,750.00	6.06	Kolkata	403	9224	10	Nomadics
+481	Puma	Email	Male	25-35	15 days	Website	0.01	10,018.00	3.8	Indore	215	6578	10	Fitness freak
+483	HRX	Display	Male	35-45	15 days	Email	0.15	6,744.00	2.86	Delhi	966	6661	1	Fitness freak
+484	Puma	Email	Female	18-25	15 days	Website	0.06	9,555.00	7.54	Kolkata	458	5437	10	Stylist
+485	Nike	Display	Male	25-35	30 days	Facebook	0.08	14,709.00	4.5	Delhi	853	8845	9	Nomadics
+486	Puma	Email	Female	35-45	15 days	YouTube	0.13	15,304.00	3.17	Mumbai	478	4331	1	Techie
+487	Nike	Display	Male	25-35	45 days	Website	0.1	9,303.00	7.57	Chennai	456	2854	2	Stylist
+489	Puma	Email	Male	45-60	15 days	Website	0.09	12,519.00	7.91	Kolkata	405	9217	5	Techie
+490	The north face	Search	Male	45-60	60 days	Google Ads	0.11	11,310.00	7.51	Delhi	108	1579	6	Techie
+491	Nike	Search	Male	25-35	45 days	Email	0.13	12,090.00	5.36	Delhi	180	2371	9	Techie
+492	Puma	Influencer	Male	25-35	15 days	Email	0.1	6,643.00	2.55	Indore	476	4505	8	Nomadics
+493	The north face	Influencer	Female	25-35	60 days	Instagram	0.1	12,172.00	2.55	Mumbai	844	3239	3	Techie
+495	Puma	Display	Male	35-45	30 days	Website	0.12	11,350.00	7.45	Mumbai	572	6194	9	Stylist
+496	Puma	Display	Female	45-60	30 days	YouTube	0.13	14,657.00	6.16	Kolkata	908	6345	4	Fitness freak
+497	HRX	Social Media	Female	25-35	60 days	Instagram	0.14	18,653.00	4.43	Delhi	697	4339	1	Stylist
+498	Puma	Email	Female	18-25	60 days	Facebook	0.02	19,986.00	4.23	Kolkata	451	3399	5	Fitness freak
+499	Wildcraft 	Influencer	Female	25-35	15 days	Website	0.09	6,381.00	5.17	Kolkata	546	8927	3	Nomadics
+500	Wildcraft 	Social Media	Female	25-35	60 days	Email	0.14	10,795.00	4.43	Delhi	251	3316	4	Techie
+501	Nike	Social Media	Male	25-35	45 days	Google Ads	0.06	14,082.00	7.15	Indore	300	1903	7	Fitness freak
+504	Puma	Display	Male	25-35	60 days	Instagram	0.13	14,214.00	6.94	Mumbai	228	5372	7	Fitness freak
+505	Wildcraft 	Search	Male	18-25	45 days	YouTube	0.09	19,144.00	3.22	Delhi	150	7531	2	Stylist
+506	Puma	Search	Male	18-25	15 days	Email	0.05	6,101.00	6.41	Mumbai	869	4255	1	Nomadics
+507	Puma	Display	Male	25-35	60 days	Google Ads	0.1	5,354.00	6.06	Delhi	698	5324	6	Fitness freak
+508	The north face	Social Media	Female	45-60	60 days	Website	0.08	5,701.00	5.81	Indore	645	2823	10	Nomadics
+510	Puma	Social Media	Female	18-25	30 days	Facebook	0.09	10,777.00	2.08	Delhi	531	7403	1	Fitness freak
+511	HRX	Social Media	Male	18-25	15 days	Google Ads	0.03	17,735.00	7.48	Delhi	746	6029	2	Nomadics
+513	The north face	Email	Female	35-45	30 days	Facebook	0.08	17,066.00	5.29	Kolkata	494	7713	5	Stylist
+514	Puma	Influencer	Male	35-45	15 days	YouTube	0.09	10,112.00	4.22	Delhi	930	2647	1	Stylist
+515	HRX	Social Media	Male	25-35	30 days	Facebook	0.08	19,991.00	7.47	Mumbai	723	3234	5	Fitness freak
+516	Nike	Search	Male	35-45	45 days	Google Ads	0.09	14,505.00	3.7	Indore	977	3996	5	Nomadics
+517	The north face	Email	Male	18-25	30 days	Website	0.02	8,891.00	4.3	Chennai	636	9349	4	Fitness freak
+518	Puma	Display	Male	45-60	45 days	Google Ads	0.01	13,072.00	4.14	Delhi	958	8852	9	Nomadics
+519	Nike	Influencer	Male	25-35	15 days	Website	0.09	6,492.00	6.94	Chennai	726	9158	6	Fitness freak
+520	The north face	Social Media	Female	25-35	60 days	Email	0.03	14,288.00	7.85	Indore	645	2810	2	Nomadics
+521	Wildcraft 	Display	Female	18-25	15 days	Google Ads	0.09	13,766.00	5.96	Indore	805	8755	3	Techie
+523	Wildcraft 	Search	Female	35-45	30 days	Facebook	0.06	8,995.00	5.83	Indore	493	8784	4	Fitness freak
+524	Nike	Influencer	Female	35-45	45 days	Facebook	0.02	11,905.00	6.84	Indore	339	2846	3	Stylist
+525	Wildcraft 	Email	Male	45-60	30 days	Instagram	0.03	7,672.00	6.34	Mumbai	897	1529	8	Fitness freak
+526	Puma	Social Media	Female	25-35	60 days	Facebook	0.13	13,824.00	2.34	Chennai	322	4961	9	Nomadics
+527	The north face	Influencer	Female	25-35	45 days	Email	0.12	19,175.00	4.25	Kolkata	546	6921	8	Nomadics
+528	Nike	Email	Female	25-35	15 days	Google Ads	0.03	6,818.00	6.61	Indore	931	9476	3	Nomadics
+529	Nike	Influencer	Male	25-35	15 days	Email	0.06	10,911.00	3.92	Kolkata	1000	6471	3	Fitness freak
+530	The north face	Social Media	Male	25-35	45 days	Website	0.01	15,259.00	5.68	Mumbai	941	7045	1	Nomadics
+531	Wildcraft 	Social Media	Male	18-25	30 days	Email	0.07	12,681.00	2.36	Kolkata	907	3624	9	Fitness freak
+534	HRX	Influencer	Male	25-35	30 days	Website	0.05	11,451.00	4.85	Delhi	225	3659	3	Techie
+535	The north face	Email	Male	25-35	30 days	Google Ads	0.13	6,102.00	5.09	Kolkata	754	9655	8	Nomadics
+537	Wildcraft 	Influencer	Female	35-45	30 days	YouTube	0.13	16,886.00	2.24	Chennai	440	7816	2	Techie
+538	Wildcraft 	Display	Female	45-60	30 days	Email	0.03	5,532.00	2.41	Delhi	877	8419	6	Techie
+539	HRX	Influencer	Female	25-35	45 days	Website	0.15	8,565.00	4.49	Kolkata	862	3927	7	Nomadics
+540	Puma	Display	Female	18-25	60 days	Google Ads	0.11	16,202.00	3.43	Indore	970	7346	9	Stylist
+542	Wildcraft 	Display	Male	45-60	30 days	Website	0.11	12,137.00	4.77	Kolkata	789	2406	4	Fitness freak
+543	Nike	Influencer	Male	25-35	45 days	Facebook	0.02	18,566.00	6.38	Mumbai	690	6268	10	Techie
+544	Nike	Search	Male	45-60	60 days	Email	0.03	8,621.00	4.51	Indore	330	3692	10	Fitness freak
+545	Puma	Search	Female	45-60	15 days	YouTube	0.03	9,522.00	2.11	Mumbai	326	9034	2	Nomadics
+546	Wildcraft 	Influencer	Female	25-35	15 days	YouTube	0.03	7,928.00	2.03	Chennai	471	2937	1	Techie
+547	Puma	Email	Female	25-35	45 days	Website	0.09	7,657.00	5.99	Indore	518	1611	9	Nomadics
+548	The north face	Search	Female	45-60	15 days	Instagram	0.08	10,685.00	3.02	Indore	961	8698	10	Nomadics
+549	Nike	Influencer	Male	25-35	15 days	Facebook	0.06	9,394.00	5.84	Delhi	449	3195	10	Techie
+550	Puma	Influencer	Female	35-45	15 days	Email	0.05	9,601.00	3.73	Mumbai	707	8597	10	Techie
+551	Wildcraft 	Influencer	Male	25-35	45 days	YouTube	0.11	17,612.00	6.58	Kolkata	786	7443	5	Nomadics
+552	HRX	Search	Female	35-45	30 days	Website	0.04	11,446.00	3.81	Chennai	592	3696	2	Stylist
+553	The north face	Email	Male	35-45	60 days	Website	0.08	10,023.00	4.99	Indore	821	2829	7	Techie
+554	HRX	Influencer	Male	45-60	30 days	YouTube	0.14	18,758.00	4.86	Indore	668	5465	10	Techie
+556	The north face	Social Media	Male	18-25	45 days	Google Ads	0.07	16,995.00	4.53	Indore	879	2611	7	Stylist
+558	Nike	Email	Male	45-60	60 days	Email	0.06	5,981.00	2.36	Chennai	156	4696	10	Techie
+559	HRX	Email	Female	35-45	30 days	Email	0.04	16,908.00	5.06	Delhi	657	8646	3	Nomadics
+561	HRX	Search	Female	18-25	60 days	Instagram	0.02	19,932.00	6.46	Chennai	381	3785	2	Nomadics
+562	HRX	Email	Female	25-35	60 days	Website	0.11	10,809.00	2.9	Mumbai	794	3979	1	Fitness freak
+563	Nike	Display	Male	18-25	60 days	Website	0.15	10,427.00	4.62	Delhi	272	3758	5	Fitness freak
+564	Puma	Email	Male	18-25	45 days	Instagram	0.12	9,349.00	3.98	Mumbai	283	4214	2	Techie
+565	The north face	Influencer	Female	18-25	30 days	Facebook	0.03	15,158.00	4.44	Delhi	680	9761	2	Fitness freak
+566	Puma	Search	Female	18-25	45 days	YouTube	0.14	18,265.00	2.58	Delhi	599	9613	7	Nomadics
+567	Wildcraft 	Email	Male	45-60	60 days	Email	0.11	14,676.00	3.3	Delhi	400	4954	1	Fitness freak
+568	The north face	Influencer	Female	35-45	30 days	Email	0.12	14,808.00	5.63	Delhi	979	2057	6	Techie
+569	Wildcraft 	Search	Female	25-35	15 days	Facebook	0.02	13,416.00	2.38	Kolkata	218	8263	8	Stylist
+571	Puma	Influencer	Male	18-25	15 days	YouTube	0.06	18,626.00	3.29	Kolkata	548	9714	9	Techie
+573	Wildcraft 	Influencer	Male	25-35	15 days	YouTube	0.12	11,778.00	6.81	Chennai	880	9950	1	Nomadics
+574	Wildcraft 	Display	Male	25-35	15 days	Facebook	0.09	6,075.00	3.79	Kolkata	324	8421	9	Fitness freak
+575	Nike	Influencer	Male	25-35	30 days	Google Ads	0.14	16,550.00	5.2	Kolkata	595	5020	3	Stylist
+578	The north face	Influencer	Male	18-25	15 days	Instagram	0.09	18,053.00	4.37	Indore	124	4856	4	Nomadics
+579	The north face	Search	Female	45-60	45 days	Website	0.09	18,980.00	4.73	Chennai	827	6482	5	Stylist
+580	The north face	Social Media	Female	25-35	45 days	YouTube	0.13	9,550.00	2.64	Indore	162	5962	10	Nomadics
+581	Puma	Social Media	Female	45-60	15 days	Facebook	0.1	9,319.00	7.87	Delhi	837	9370	7	Nomadics
+582	Nike	Email	Female	25-35	45 days	Email	0.03	6,858.00	5.09	Mumbai	369	6751	1	Fitness freak
+583	The north face	Search	Female	25-35	30 days	Instagram	0.07	6,810.00	6.23	Mumbai	488	3035	7	Fitness freak
+585	Nike	Email	Female	25-35	30 days	Facebook	0.08	7,103.00	3.62	Delhi	693	2990	9	Fitness freak
+586	HRX	Email	Female	25-35	30 days	Facebook	0.02	14,744.00	6.47	Chennai	663	2915	5	Nomadics
+588	Nike	Display	Male	25-35	60 days	Facebook	0.07	9,467.00	3.04	Mumbai	523	9011	4	Fitness freak
+589	HRX	Social Media	Female	25-35	30 days	Website	0.13	13,137.00	7.87	Delhi	156	8863	7	Stylist
+590	Puma	Search	Female	25-35	15 days	Email	0.15	6,734.00	3.32	Mumbai	893	6494	7	Fitness freak
+591	Wildcraft 	Display	Male	25-35	15 days	YouTube	0.06	5,195.00	2.28	Kolkata	618	4966	5	Nomadics
+594	Nike	Social Media	Female	18-25	15 days	Email	0.1	11,720.00	2.32	Chennai	726	2034	9	Stylist
+595	Nike	Email	Male	35-45	15 days	Instagram	0.09	11,121.00	2.88	Delhi	592	8129	10	Nomadics
+596	Wildcraft 	Influencer	Female	18-25	60 days	Google Ads	0.15	6,693.00	6.6	Mumbai	314	4768	4	Fitness freak
+597	Puma	Influencer	Male	18-25	60 days	Email	0.12	15,794.00	2.65	Mumbai	850	9583	2	Techie
+598	The north face	Social Media	Female	18-25	60 days	YouTube	0.08	5,287.00	2.35	Delhi	871	1027	3	Nomadics
+599	Puma	Email	Male	25-35	45 days	Email	0.06	19,865.00	4.99	Chennai	281	5324	2	Nomadics
+600	Nike	Email	Male	25-35	60 days	Instagram	0.03	6,204.00	2.87	Chennai	802	9694	9	Nomadics
+601	Puma	Search	Male	25-35	15 days	YouTube	0.15	19,775.00	5.65	Delhi	716	7052	8	Stylist
+603	Puma	Email	Female	25-35	30 days	Instagram	0.03	16,466.00	6.89	Kolkata	884	8047	7	Fitness freak
+605	Puma	Email	Male	25-35	15 days	Google Ads	0.13	10,005.00	3.08	Indore	938	9337	4	Nomadics
+608	Wildcraft 	Email	Female	25-35	60 days	Email	0.14	9,120.00	4.79	Chennai	689	4238	9	Nomadics
+609	HRX	Influencer	Female	45-60	60 days	Google Ads	0.06	19,296.00	7.56	Kolkata	117	8373	10	Stylist
+610	HRX	Email	Female	35-45	15 days	Website	0.11	15,009.00	6.44	Chennai	797	3874	5	Fitness freak
+611	Puma	Search	Male	25-35	60 days	YouTube	0.02	14,223.00	6.69	Indore	534	4198	4	Fitness freak
+612	The north face	Search	Male	35-45	15 days	YouTube	0.05	14,394.00	4.92	Kolkata	779	5669	10	Techie
+613	HRX	Influencer	Male	25-35	30 days	Google Ads	0.04	17,444.00	7.92	Chennai	342	4739	2	Nomadics
+615	The north face	Email	Male	35-45	45 days	YouTube	0.13	11,617.00	2.68	Delhi	288	5689	6	Techie
+616	Puma	Email	Male	35-45	60 days	Google Ads	0.02	9,950.00	6.02	Indore	700	3738	1	Stylist
+617	Wildcraft 	Display	Male	35-45	45 days	Email	0.13	12,718.00	5.69	Kolkata	659	4543	4	Fitness freak
+618	Nike	Social Media	Female	25-35	30 days	Website	0.14	5,207.00	7.34	Delhi	800	6253	7	Nomadics
+619	Nike	Search	Female	35-45	45 days	Facebook	0.07	17,776.00	6.25	Chennai	666	8853	7	Nomadics
+620	Wildcraft 	Search	Female	45-60	15 days	Google Ads	0.07	9,618.00	6.64	Chennai	509	9075	4	Fitness freak
+621	Puma	Email	Male	45-60	45 days	Website	0.09	13,815.00	6.58	Chennai	558	8866	5	Fitness freak
+622	Wildcraft 	Social Media	Female	35-45	45 days	Facebook	0.15	9,567.00	7.19	Kolkata	398	7129	4	Stylist
+623	The north face	Display	Female	25-35	45 days	Email	0.11	15,716.00	3.27	Kolkata	614	9578	10	Nomadics
+624	Puma	Search	Male	45-60	60 days	Website	0.07	19,377.00	2.17	Chennai	398	2715	3	Techie
+626	Nike	Influencer	Male	45-60	60 days	Facebook	0.1	7,158.00	6.42	Indore	786	8494	3	Nomadics
+628	Nike	Search	Male	18-25	60 days	Facebook	0.03	10,437.00	3.94	Indore	629	5811	4	Stylist
+631	Puma	Search	Female	35-45	15 days	Instagram	0.14	19,011.00	3.15	Delhi	585	7596	1	Fitness freak
+633	Nike	Search	Female	25-35	45 days	YouTube	0.02	19,930.00	2.78	Mumbai	191	1876	6	Techie
+634	Nike	Search	Female	25-35	30 days	Facebook	0.03	13,082.00	6.86	Delhi	513	2581	7	Techie
+636	The north face	Display	Female	25-35	45 days	Facebook	0.03	5,111.00	3.89	Delhi	976	1266	3	Fitness freak
+637	The north face	Display	Female	18-25	30 days	Website	0.08	10,341.00	7.69	Chennai	398	7233	8	Stylist
+638	Puma	Email	Female	25-35	45 days	Facebook	0.09	19,413.00	2.96	Mumbai	268	4834	1	Techie
+639	Nike	Email	Male	18-25	15 days	Email	0.05	5,682.00	4.1	Kolkata	349	4692	3	Stylist
+641	HRX	Social Media	Male	18-25	60 days	Instagram	0.07	9,959.00	2.98	Kolkata	471	3777	2	Nomadics
+642	Puma	Email	Male	25-35	60 days	Facebook	0.1	19,297.00	2.21	Kolkata	746	2550	2	Fitness freak
+643	HRX	Display	Male	25-35	30 days	Website	0.1	5,566.00	4.56	Mumbai	510	2628	9	Techie
+644	HRX	Display	Male	25-35	60 days	Google Ads	0.13	7,799.00	4.08	Chennai	546	6225	5	Fitness freak
+645	The north face	Email	Male	18-25	15 days	Email	0.11	16,646.00	3.23	Indore	766	5868	9	Stylist
+646	Wildcraft 	Influencer	Male	25-35	45 days	Google Ads	0.1	8,920.00	2.6	Delhi	724	2218	8	Fitness freak
+647	HRX	Search	Female	18-25	60 days	Facebook	0.14	13,381.00	4.29	Mumbai	210	4670	10	Stylist
+648	The north face	Email	Female	25-35	60 days	Facebook	0.15	6,678.00	7.14	Mumbai	518	1436	5	Fitness freak
+649	HRX	Display	Female	45-60	30 days	Google Ads	0.01	13,925.00	7.8	Kolkata	353	1990	3	Techie
+650	HRX	Influencer	Female	25-35	30 days	Instagram	0.15	8,572.00	4.98	Delhi	843	4134	5	Stylist
+651	The north face	Search	Female	18-25	30 days	Google Ads	0.1	9,742.00	6.02	Mumbai	103	5332	3	Techie
+652	Puma	Display	Male	25-35	30 days	Email	0.05	13,951.00	3.82	Indore	650	5313	4	Techie
+653	Wildcraft 	Search	Male	25-35	30 days	Instagram	0.11	8,728.00	6.14	Chennai	192	2402	7	Nomadics
+654	Puma	Email	Male	25-35	30 days	Facebook	0.07	13,146.00	4.97	Delhi	815	4489	2	Stylist
+655	The north face	Influencer	Female	18-25	45 days	Email	0.08	8,126.00	3.7	Indore	951	2109	6	Techie
+657	The north face	Search	Female	35-45	60 days	YouTube	0.07	14,034.00	2.52	Kolkata	205	4519	3	Stylist
+659	The north face	Email	Male	18-25	60 days	Email	0.04	14,466.00	6.55	Kolkata	418	5792	3	Nomadics
+660	HRX	Display	Female	25-35	45 days	Website	0.02	9,587.00	5.09	Mumbai	565	9120	10	Techie
+662	Wildcraft 	Influencer	Female	45-60	45 days	Website	0.02	6,335.00	4.48	Mumbai	901	4385	10	Techie
+664	Nike	Display	Male	35-45	15 days	Facebook	0.03	8,713.00	7.42	Mumbai	184	1532	7	Fitness freak
+665	Puma	Influencer	Male	25-35	60 days	Email	0.04	6,188.00	5.82	Delhi	370	3285	10	Stylist
+666	The north face	Email	Male	18-25	15 days	Email	0.1	15,389.00	4.57	Delhi	253	9648	9	Techie
+667	Nike	Social Media	Female	35-45	60 days	Email	0.06	14,448.00	5.55	Kolkata	612	8426	6	Fitness freak
+669	Nike	Display	Female	35-45	30 days	Email	0.02	16,508.00	4.07	Indore	198	3260	7	Nomadics
+670	HRX	Email	Female	45-60	30 days	Google Ads	0.04	12,187.00	2.93	Delhi	608	9633	9	Fitness freak
+671	Puma	Display	Female	25-35	60 days	Instagram	0.1	8,641.00	3.86	Delhi	907	3959	3	Fitness freak
+672	Wildcraft 	Social Media	Female	18-25	15 days	Email	0.06	5,535.00	5.04	Indore	439	3452	6	Techie
+674	Wildcraft 	Email	Male	25-35	30 days	YouTube	0.08	8,103.00	6.31	Delhi	112	7942	9	Nomadics
+675	The north face	Display	Female	35-45	60 days	Website	0.04	13,948.00	3.81	Chennai	792	8509	3	Stylist
+676	HRX	Search	Female	18-25	45 days	Email	0.03	11,683.00	2.3	Indore	938	2954	6	Nomadics
+677	HRX	Social Media	Male	35-45	30 days	Facebook	0.11	13,347.00	2.62	Kolkata	583	8096	7	Fitness freak
+680	Nike	Email	Female	45-60	15 days	Facebook	0.02	5,115.00	2.45	Chennai	707	4038	10	Stylist
+681	Nike	Display	Male	35-45	45 days	Instagram	0.09	7,958.00	4.06	Indore	225	7613	10	Techie
+683	HRX	Display	Male	25-35	15 days	Email	0.08	16,611.00	3.77	Chennai	677	9120	8	Fitness freak
+684	Nike	Search	Male	25-35	30 days	YouTube	0.08	14,036.00	7.09	Kolkata	841	6267	10	Nomadics
+685	Puma	Social Media	Male	18-25	60 days	Email	0.15	11,288.00	2.12	Kolkata	975	9259	4	Nomadics
+687	Puma	Social Media	Male	45-60	45 days	Email	0.02	9,814.00	7.95	Chennai	682	1098	7	Stylist
+689	Puma	Search	Female	25-35	60 days	Facebook	0.03	14,696.00	6.51	Chennai	144	7594	3	Techie
+690	HRX	Influencer	Female	25-35	30 days	Email	0.06	19,466.00	4	Delhi	243	3607	8	Fitness freak
+691	Nike	Influencer	Female	45-60	15 days	Google Ads	0.11	18,398.00	6	Kolkata	918	7967	3	Stylist
+692	HRX	Social Media	Female	35-45	30 days	Google Ads	0.05	6,146.00	2.86	Kolkata	951	7468	5	Fitness freak
+694	Wildcraft 	Search	Male	25-35	60 days	Email	0.05	17,944.00	7.15	Mumbai	820	2488	2	Nomadics
+695	HRX	Display	Female	25-35	60 days	YouTube	0.02	13,147.00	2.24	Mumbai	796	6799	10	Techie
+697	Nike	Display	Male	18-25	30 days	Facebook	0.09	14,813.00	7.41	Chennai	714	5336	9	Stylist
+698	Puma	Search	Male	25-35	15 days	YouTube	0.14	14,117.00	6.36	Delhi	680	9968	6	Stylist
+699	HRX	Influencer	Female	35-45	60 days	Facebook	0.13	10,912.00	4.6	Mumbai	164	4737	2	Stylist
+700	The north face	Influencer	Female	45-60	45 days	Website	0.15	13,598.00	5.58	Chennai	371	4680	9	Stylist
+701	The north face	Search	Male	25-35	45 days	YouTube	0.03	17,983.00	4.21	Kolkata	788	8517	6	Fitness freak
+702	HRX	Influencer	Female	45-60	15 days	Email	0.04	7,870.00	4.92	Kolkata	443	9299	1	Fitness freak
+703	HRX	Search	Male	18-25	60 days	YouTube	0.02	14,784.00	4.3	Mumbai	214	4332	6	Stylist
+704	Wildcraft 	Social Media	Female	25-35	15 days	Google Ads	0.05	15,792.00	5.57	Mumbai	586	5525	6	Fitness freak
+705	HRX	Social Media	Male	25-35	30 days	Email	0.14	17,547.00	3.77	Kolkata	850	9634	3	Stylist
+707	Nike	Display	Male	35-45	30 days	Website	0.09	19,593.00	3.26	Mumbai	657	9514	7	Fitness freak
+708	Puma	Search	Female	25-35	45 days	Facebook	0.06	10,867.00	7	Kolkata	456	9558	4	Nomadics
+709	Puma	Influencer	Male	25-35	60 days	YouTube	0.14	5,456.00	6.94	Delhi	592	2729	10	Stylist
+711	Nike	Social Media	Male	35-45	30 days	Website	0.13	13,049.00	2.22	Kolkata	463	5427	6	Stylist
+712	HRX	Email	Male	45-60	15 days	YouTube	0.09	5,487.00	7.61	Mumbai	439	7563	9	Stylist
+713	Wildcraft 	Email	Female	25-35	15 days	YouTube	0.06	11,279.00	6.03	Indore	990	2553	9	Techie
+714	Puma	Search	Female	25-35	45 days	Email	0.06	9,345.00	6.99	Mumbai	369	3018	6	Stylist
+715	Nike	Influencer	Male	45-60	30 days	Facebook	0.04	14,824.00	4.19	Mumbai	640	7927	2	Techie
+716	Nike	Influencer	Female	18-25	30 days	Website	0.15	6,745.00	2.05	Delhi	832	5638	5	Techie
+717	Puma	Email	Female	45-60	45 days	Email	0.09	13,046.00	3.83	Mumbai	954	4472	6	Techie
+718	The north face	Search	Female	45-60	45 days	Facebook	0.03	17,368.00	3.05	Kolkata	696	4981	3	Stylist
+719	Nike	Display	Female	45-60	15 days	Email	0.07	14,329.00	2.04	Chennai	745	5404	5	Stylist
+720	The north face	Email	Female	45-60	30 days	Website	0.03	14,192.00	5.2	Kolkata	607	3588	8	Nomadics
+721	Puma	Social Media	Male	25-35	60 days	Google Ads	0.05	10,671.00	3.45	Delhi	142	6322	5	Techie
+722	HRX	Influencer	Male	25-35	15 days	Instagram	0.06	14,622.00	6.55	Chennai	931	3261	4	Nomadics
+723	HRX	Influencer	Male	25-35	45 days	Email	0.07	5,325.00	5.21	Indore	633	9962	6	Stylist
+724	Puma	Influencer	Male	45-60	45 days	Facebook	0.02	10,216.00	6.01	Indore	104	9807	7	Fitness freak
+725	HRX	Email	Male	45-60	60 days	Email	0.03	7,243.00	7.63	Chennai	350	1915	2	Nomadics
+728	The north face	Social Media	Female	45-60	60 days	Email	0.06	10,935.00	6.34	Chennai	542	6328	9	Nomadics
+729	The north face	Display	Female	25-35	30 days	Instagram	0.08	12,273.00	6.51	Kolkata	634	3509	5	Stylist
+731	The north face	Email	Male	35-45	45 days	Facebook	0.11	5,965.00	3.85	Mumbai	595	1064	3	Techie
+732	The north face	Influencer	Female	45-60	45 days	Google Ads	0.06	11,986.00	4.56	Indore	455	2292	7	Techie
+733	HRX	Email	Female	18-25	45 days	Email	0.11	19,196.00	7.44	Delhi	521	4891	10	Fitness freak
+734	Nike	Search	Male	25-35	15 days	Website	0.15	16,943.00	3.91	Delhi	661	3125	6	Fitness freak
+735	HRX	Search	Male	25-35	30 days	Website	0.03	11,181.00	2.79	Mumbai	782	5671	6	Stylist
+736	Nike	Search	Male	35-45	45 days	YouTube	0.06	5,019.00	7.21	Chennai	431	9571	7	Fitness freak
+738	HRX	Email	Male	45-60	60 days	Email	0.04	13,334.00	3.41	Kolkata	110	6901	5	Stylist
+739	Puma	Search	Male	25-35	45 days	Website	0.13	7,615.00	7.44	Chennai	843	2512	7	Fitness freak
+740	Puma	Search	Female	45-60	30 days	Facebook	0.12	8,888.00	4.54	Mumbai	398	4642	3	Nomadics
+742	The north face	Influencer	Female	25-35	15 days	Email	0.01	8,631.00	4.68	Mumbai	944	4241	3	Stylist
+743	HRX	Influencer	Female	25-35	30 days	YouTube	0.1	17,730.00	5.4	Kolkata	827	3774	5	Fitness freak
+745	Wildcraft 	Social Media	Male	25-35	60 days	Facebook	0.05	13,804.00	5.69	Indore	328	5341	10	Nomadics
+746	Nike	Influencer	Female	18-25	15 days	Email	0.13	15,196.00	7.16	Delhi	160	7300	5	Nomadics
+747	The north face	Social Media	Female	25-35	45 days	Facebook	0.03	19,802.00	3.01	Delhi	751	9737	10	Fitness freak
+749	Wildcraft 	Display	Male	25-35	15 days	Website	0.07	15,129.00	3.37	Indore	153	8437	8	Nomadics
+750	The north face	Email	Male	25-35	15 days	YouTube	0.13	12,152.00	5.08	Delhi	501	7981	1	Techie
+751	Wildcraft 	Influencer	Male	25-35	30 days	Website	0.07	14,385.00	7.35	Delhi	945	2430	4	Fitness freak
+752	HRX	Influencer	Male	35-45	60 days	Facebook	0.06	12,200.00	6.69	Kolkata	156	5067	10	Stylist
+754	Nike	Display	Male	25-35	30 days	Website	0.03	5,397.00	5.84	Mumbai	441	5180	9	Fitness freak
+758	The north face	Influencer	Female	25-35	60 days	Website	0.09	7,563.00	6.6	Delhi	847	3278	2	Stylist
+760	HRX	Display	Female	45-60	45 days	Website	0.1	11,564.00	2.2	Mumbai	739	4741	1	Techie
+761	Wildcraft 	Search	Female	45-60	60 days	Website	0.09	10,793.00	4.41	Chennai	923	7752	2	Nomadics
+763	Wildcraft 	Display	Male	25-35	30 days	Instagram	0.03	7,495.00	3.14	Delhi	818	5671	5	Nomadics
+764	Wildcraft 	Email	Male	35-45	15 days	YouTube	0.11	9,817.00	7.55	Chennai	131	5019	4	Fitness freak
+765	Puma	Social Media	Female	25-35	60 days	YouTube	0.08	19,630.00	2.12	Mumbai	632	8513	5	Nomadics
+766	Wildcraft 	Influencer	Female	45-60	45 days	Email	0.04	16,968.00	7.91	Indore	311	9517	1	Fitness freak
+767	The north face	Influencer	Female	45-60	45 days	Email	0.1	16,030.00	3.58	Mumbai	812	6017	8	Stylist
+769	HRX	Search	Male	25-35	15 days	Instagram	0.05	18,523.00	7.8	Chennai	216	9563	5	Techie
+770	Puma	Search	Female	25-35	60 days	Email	0.06	19,799.00	6.83	Kolkata	140	5997	6	Stylist
+771	Puma	Search	Male	18-25	45 days	Facebook	0.13	16,617.00	4.83	Indore	787	3976	8	Techie
+772	HRX	Email	Female	35-45	60 days	Google Ads	0.13	9,846.00	4.78	Delhi	898	4100	9	Techie
+774	Wildcraft 	Influencer	Male	18-25	45 days	Facebook	0.05	5,725.00	6.59	Chennai	490	7916	3	Stylist
+775	Puma	Search	Male	25-35	60 days	Facebook	0.08	17,167.00	2.9	Mumbai	821	7391	2	Nomadics
+776	Wildcraft 	Search	Male	25-35	15 days	Website	0.07	15,496.00	2.23	Kolkata	632	1299	5	Stylist
+777	Wildcraft 	Social Media	Female	25-35	45 days	YouTube	0.14	18,602.00	2.78	Mumbai	189	9760	4	Stylist
+778	Wildcraft 	Social Media	Male	25-35	45 days	Facebook	0.13	10,997.00	6.56	Indore	260	4951	5	Techie
+779	HRX	Email	Female	25-35	30 days	Google Ads	0.05	18,471.00	3.8	Indore	736	2287	3	Fitness freak
+780	Nike	Email	Female	45-60	15 days	Google Ads	0.06	12,720.00	7.41	Kolkata	529	9634	9	Techie
+781	Nike	Email	Female	45-60	15 days	Facebook	0.02	6,941.00	2.32	Kolkata	838	4775	4	Techie
+783	Wildcraft 	Influencer	Male	18-25	15 days	Website	0.05	12,186.00	6.36	Mumbai	701	7302	5	Nomadics
+784	Wildcraft 	Display	Male	35-45	60 days	Website	0.15	7,627.00	7.15	Delhi	110	4887	7	Fitness freak
+786	Puma	Email	Female	25-35	30 days	YouTube	0.06	13,717.00	5.58	Kolkata	719	8466	9	Fitness freak
+787	Wildcraft 	Influencer	Male	25-35	15 days	Google Ads	0.03	8,567.00	3.08	Chennai	280	7484	5	Nomadics
+788	HRX	Influencer	Female	45-60	45 days	Email	0.09	12,681.00	7.5	Kolkata	238	6294	10	Fitness freak
+789	Wildcraft 	Email	Female	45-60	60 days	Facebook	0.06	7,725.00	5.52	Chennai	795	5710	1	Techie
+790	Puma	Social Media	Female	25-35	45 days	Google Ads	0.13	15,625.00	2.5	Delhi	706	4565	5	Nomadics
+791	Nike	Search	Male	35-45	45 days	Instagram	0.14	18,859.00	2.6	Mumbai	356	1774	6	Stylist
+792	Wildcraft 	Social Media	Male	25-35	45 days	Instagram	0.1	12,744.00	7.9	Mumbai	227	5825	3	Stylist
+793	HRX	Search	Male	25-35	60 days	Google Ads	0.04	15,353.00	7.15	Delhi	825	5143	7	Fitness freak
+794	The north face	Social Media	Male	25-35	30 days	Instagram	0.09	10,275.00	6.33	Delhi	625	7906	10	Stylist
+795	Nike	Email	Male	18-25	45 days	YouTube	0.08	8,404.00	7.69	Kolkata	588	4841	10	Fitness freak
+796	Nike	Email	Male	18-25	30 days	Facebook	0.09	11,075.00	2.78	Delhi	311	3820	7	Nomadics
+797	The north face	Social Media	Male	25-35	45 days	Website	0.09	5,752.00	2.06	Kolkata	643	9177	10	Fitness freak
+798	HRX	Email	Male	18-25	60 days	Facebook	0.03	12,753.00	6.79	Chennai	159	3617	2	Fitness freak
+799	HRX	Social Media	Female	35-45	60 days	Instagram	0.15	7,744.00	2.65	Indore	315	5151	5	Fitness freak
+800	The north face	Influencer	Female	35-45	45 days	Email	0.04	9,774.00	7.53	Indore	154	8884	10	Techie
+801	Nike	Influencer	Female	25-35	15 days	Website	0.12	16,998.00	3.96	Kolkata	616	8412	7	Fitness freak
+802	The north face	Influencer	Female	45-60	30 days	Email	0.11	5,795.00	4.99	Indore	149	2960	9	Techie
+804	Wildcraft 	Influencer	Male	25-35	45 days	Website	0.08	7,396.00	3.43	Mumbai	453	5028	4	Stylist
+805	The north face	Email	Female	25-35	15 days	YouTube	0.05	8,065.00	6.08	Mumbai	261	9736	6	Techie
+806	The north face	Influencer	Female	18-25	45 days	YouTube	0.01	16,307.00	6.84	Kolkata	713	9492	10	Techie
+807	Nike	Email	Male	45-60	45 days	Website	0.11	16,474.00	3.93	Indore	605	2326	3	Techie
+808	Wildcraft 	Social Media	Male	25-35	45 days	Google Ads	0.02	9,264.00	3.19	Kolkata	675	3017	9	Nomadics
+811	HRX	Display	Male	45-60	45 days	YouTube	0.13	12,725.00	2.52	Kolkata	227	8467	7	Stylist
+813	Nike	Email	Male	45-60	45 days	YouTube	0.03	11,285.00	3.11	Chennai	572	3877	1	Nomadics
+814	Nike	Display	Female	45-60	45 days	Email	0.06	11,900.00	5.63	Indore	563	6760	8	Stylist
+815	Puma	Display	Male	18-25	45 days	Google Ads	0.03	7,808.00	7.33	Delhi	210	5797	1	Nomadics
+816	Puma	Email	Female	18-25	45 days	Instagram	0.13	11,529.00	7.72	Indore	700	1555	1	Fitness freak
+819	Puma	Email	Male	35-45	15 days	Email	0.04	6,794.00	6.06	Kolkata	676	3158	10	Nomadics
+821	The north face	Search	Male	35-45	45 days	YouTube	0.09	10,846.00	4.69	Delhi	780	7044	2	Stylist
+822	Puma	Email	Male	25-35	60 days	Google Ads	0.09	8,127.00	7.93	Mumbai	110	5302	1	Nomadics
+823	Nike	Email	Female	25-35	30 days	Email	0.14	6,525.00	5.24	Mumbai	709	9056	7	Techie
+824	Puma	Social Media	Female	25-35	30 days	Website	0.04	14,806.00	5.52	Delhi	846	1922	3	Fitness freak
+825	HRX	Search	Male	18-25	45 days	YouTube	0.06	11,319.00	2.74	Indore	397	9577	10	Nomadics
+826	Puma	Email	Female	18-25	30 days	YouTube	0.11	8,291.00	5.37	Chennai	990	1316	1	Techie
+828	Wildcraft 	Influencer	Female	25-35	45 days	Email	0.08	7,926.00	6.06	Kolkata	962	6510	5	Nomadics
+830	The north face	Display	Female	35-45	15 days	Website	0.06	16,832.00	6.88	Chennai	276	3632	1	Nomadics
+831	The north face	Email	Male	25-35	60 days	Email	0.03	19,131.00	2.61	Chennai	688	6951	10	Fitness freak
+833	Puma	Social Media	Male	25-35	30 days	Website	0.13	10,352.00	4.55	Chennai	487	4895	9	Techie
+834	HRX	Influencer	Male	25-35	15 days	YouTube	0.02	10,725.00	7.54	Delhi	393	7590	5	Techie
+835	HRX	Display	Male	18-25	30 days	Instagram	0.02	5,393.00	5.21	Chennai	442	4095	4	Techie
+837	Puma	Display	Male	25-35	45 days	Website	0.12	5,496.00	6.91	Indore	868	6855	8	Fitness freak
+838	The north face	Social Media	Female	35-45	30 days	Website	0.07	5,443.00	5.38	Mumbai	380	3167	8	Stylist
+839	The north face	Social Media	Female	45-60	30 days	Email	0.12	6,493.00	5.59	Indore	434	4201	2	Techie
+841	HRX	Search	Male	35-45	60 days	YouTube	0.02	5,137.00	7.22	Chennai	451	6386	10	Nomadics
+842	Nike	Social Media	Female	25-35	30 days	Facebook	0.11	12,641.00	2.35	Delhi	259	7518	6	Fitness freak
+843	Wildcraft 	Social Media	Female	45-60	45 days	Facebook	0.04	17,947.00	4.38	Chennai	853	6502	9	Stylist
+844	HRX	Email	Male	25-35	15 days	Google Ads	0.08	13,474.00	3.67	Delhi	833	1348	9	Techie
+845	Puma	Search	Male	18-25	15 days	YouTube	0.03	5,391.00	6.83	Chennai	645	7873	9	Nomadics
+846	The north face	Email	Male	25-35	15 days	YouTube	0.13	15,626.00	3.42	Kolkata	783	6276	9	Nomadics
+847	Wildcraft 	Social Media	Male	35-45	30 days	Instagram	0.04	9,327.00	4.79	Kolkata	280	7169	3	Nomadics
+848	The north face	Influencer	Male	35-45	30 days	Instagram	0.03	15,231.00	7.17	Delhi	924	5124	7	Fitness freak
+849	Puma	Influencer	Male	45-60	15 days	Google Ads	0.04	18,490.00	4.29	Mumbai	993	1208	4	Nomadics
+850	Puma	Display	Female	45-60	30 days	Facebook	0.12	17,401.00	7.94	Indore	736	1088	10	Stylist
+853	Nike	Influencer	Female	25-35	15 days	Facebook	0.12	11,835.00	6.54	Kolkata	409	7478	6	Techie
+854	The north face	Social Media	Female	25-35	60 days	Google Ads	0.03	19,561.00	2.51	Chennai	928	4629	6	Techie
+855	Puma	Search	Male	25-35	60 days	Website	0.1	7,664.00	7.59	Indore	273	1767	1	Fitness freak
+856	Wildcraft 	Display	Female	18-25	60 days	Facebook	0.1	12,904.00	6.56	Delhi	141	5387	3	Stylist
+857	Puma	Social Media	Female	25-35	45 days	Email	0.09	17,134.00	3.49	Kolkata	615	2409	4	Nomadics
+860	The north face	Influencer	Male	35-45	15 days	Facebook	0.08	14,647.00	7.17	Delhi	521	7461	9	Nomadics
+861	Nike	Influencer	Male	35-45	45 days	Instagram	0.11	8,227.00	7.07	Mumbai	732	1925	4	Fitness freak
+862	Puma	Email	Male	25-35	30 days	YouTube	0.06	13,701.00	4.76	Delhi	403	9539	3	Techie
+864	Puma	Email	Male	45-60	45 days	Facebook	0.13	7,794.00	5.2	Kolkata	717	9483	4	Stylist
+865	Puma	Display	Male	18-25	45 days	Facebook	0.02	13,553.00	4.67	Mumbai	887	8746	8	Nomadics
+866	Puma	Social Media	Male	25-35	15 days	YouTube	0.08	17,336.00	4.62	Mumbai	828	1666	5	Techie
+867	The north face	Display	Female	45-60	45 days	Email	0.14	14,127.00	7.08	Delhi	337	6279	5	Fitness freak
+868	Wildcraft 	Email	Female	18-25	30 days	Email	0.11	7,225.00	7.3	Chennai	295	1805	6	Fitness freak
+869	HRX	Influencer	Female	25-35	45 days	Website	0.05	13,096.00	2.79	Indore	684	6309	6	Nomadics
+870	The north face	Display	Female	25-35	30 days	Facebook	0.1	10,699.00	2.44	Kolkata	101	8321	10	Techie
+871	Nike	Email	Female	35-45	45 days	Google Ads	0.13	11,110.00	5.06	Mumbai	844	1472	1	Nomadics
+872	Nike	Search	Male	25-35	15 days	Google Ads	0.06	6,902.00	3.92	Chennai	718	1149	5	Nomadics
+873	HRX	Social Media	Male	35-45	30 days	Facebook	0.09	6,283.00	5.76	Mumbai	127	4870	8	Nomadics
+874	Puma	Display	Male	25-35	45 days	Facebook	0.04	10,510.00	6.94	Mumbai	868	8864	1	Techie
+876	Nike	Social Media	Female	35-45	60 days	Website	0.04	16,052.00	3.12	Kolkata	392	7376	7	Stylist
+877	Nike	Influencer	Female	45-60	45 days	YouTube	0.07	16,322.00	5.7	Chennai	805	1018	3	Nomadics
+878	Wildcraft 	Influencer	Female	45-60	45 days	YouTube	0.01	11,460.00	7.35	Delhi	502	6748	6	Nomadics
+879	Nike	Search	Male	18-25	15 days	Website	0.02	6,306.00	3.72	Indore	970	2735	2	Nomadics
+881	Puma	Display	Male	25-35	15 days	Website	0.1	18,162.00	3.09	Kolkata	438	4326	6	Nomadics
+884	The north face	Social Media	Male	25-35	15 days	Website	0.12	18,440.00	3.27	Chennai	319	7147	3	Fitness freak
+885	Puma	Social Media	Male	25-35	60 days	Facebook	0.08	10,071.00	3.11	Chennai	234	4683	5	Stylist
+886	Puma	Search	Male	18-25	60 days	Facebook	0.09	18,630.00	7.41	Chennai	979	1173	5	Stylist
+887	Puma	Social Media	Female	18-25	30 days	Facebook	0.1	14,835.00	3.56	Mumbai	594	1864	3	Techie
+889	Wildcraft 	Search	Female	35-45	45 days	Email	0.14	17,084.00	6.43	Indore	756	6786	3	Fitness freak
+890	The north face	Email	Female	35-45	15 days	Google Ads	0.02	19,360.00	3.05	Indore	251	7370	4	Stylist
+891	The north face	Social Media	Female	25-35	30 days	Website	0.14	16,766.00	6.88	Delhi	746	6231	5	Techie
+892	Wildcraft 	Influencer	Female	35-45	45 days	Google Ads	0.04	17,451.00	4.59	Indore	900	4729	9	Stylist
+893	HRX	Social Media	Male	25-35	45 days	Google Ads	0.05	13,463.00	4.2	Indore	722	2995	7	Stylist
+896	Wildcraft 	Display	Female	25-35	15 days	Instagram	0.07	18,492.00	4.55	Kolkata	528	1729	1	Techie
+899	HRX	Email	Female	45-60	15 days	Facebook	0.02	13,868.00	5.37	Mumbai	436	7836	1	Stylist
+900	Puma	Social Media	Female	45-60	30 days	Facebook	0.03	15,108.00	6.99	Kolkata	714	2110	1	Techie
+901	The north face	Email	Male	18-25	45 days	Website	0.14	17,680.00	6.97	Chennai	690	5381	1	Fitness freak
+902	Nike	Email	Male	35-45	45 days	Email	0.11	19,099.00	7.72	Indore	439	6664	10	Fitness freak
+904	HRX	Social Media	Male	45-60	45 days	YouTube	0.03	10,612.00	2.82	Mumbai	254	6310	2	Nomadics
+906	HRX	Influencer	Male	25-35	60 days	Email	0.08	7,320.00	4.93	Delhi	661	8394	6	Nomadics
+907	Puma	Display	Male	25-35	30 days	YouTube	0.14	17,769.00	6.67	Mumbai	523	4657	9	Fitness freak
+908	HRX	Display	Male	35-45	45 days	Instagram	0.11	12,561.00	7.19	Chennai	379	5425	1	Stylist
+909	Nike	Display	Female	25-35	45 days	Google Ads	0.14	15,428.00	7.25	Kolkata	723	2317	5	Stylist
+911	The north face	Social Media	Female	25-35	60 days	Instagram	0.06	12,116.00	7.76	Chennai	288	2768	1	Fitness freak
+912	Nike	Search	Female	25-35	45 days	YouTube	0.11	6,059.00	6.56	Delhi	536	1691	5	Techie
+913	HRX	Influencer	Female	45-60	60 days	Google Ads	0.15	6,410.00	6.37	Mumbai	786	2586	3	Fitness freak
+914	Nike	Email	Male	25-35	15 days	Facebook	0.14	7,711.00	6.35	Delhi	121	7743	5	Stylist
+915	The north face	Influencer	Female	25-35	15 days	Google Ads	0.08	19,160.00	2.56	Mumbai	480	9169	6	Nomadics
+916	HRX	Search	Female	35-45	15 days	Website	0.05	17,593.00	5.74	Kolkata	581	6293	3	Fitness freak
+917	Wildcraft 	Display	Male	45-60	15 days	Google Ads	0.08	9,368.00	7.23	Kolkata	109	3119	1	Stylist
+918	HRX	Display	Male	35-45	60 days	Facebook	0.13	14,634.00	3.23	Delhi	666	5108	2	Techie
+919	Nike	Social Media	Female	45-60	60 days	Instagram	0.02	19,069.00	3.17	Indore	236	8275	5	Nomadics
+920	Puma	Search	Female	45-60	45 days	Google Ads	0.06	14,829.00	4.24	Chennai	913	8413	9	Nomadics
+922	Wildcraft 	Influencer	Female	45-60	45 days	Website	0.12	10,376.00	5.58	Kolkata	583	8261	2	Fitness freak
+923	HRX	Search	Male	18-25	15 days	Email	0.03	14,478.00	7.86	Kolkata	331	6566	6	Stylist
+924	The north face	Influencer	Female	18-25	45 days	Website	0.15	12,163.00	2.62	Delhi	799	2806	9	Techie
+926	The north face	Influencer	Female	45-60	30 days	Instagram	0.02	6,267.00	7.48	Kolkata	504	3734	5	Fitness freak
+927	The north face	Search	Male	25-35	45 days	YouTube	0.02	7,952.00	7.6	Kolkata	732	3083	8	Stylist
+928	Nike	Display	Female	25-35	15 days	YouTube	0.1	15,470.00	7.67	Mumbai	231	7163	5	Stylist
+929	HRX	Email	Male	45-60	15 days	YouTube	0.11	6,615.00	2.13	Chennai	126	7151	2	Techie
+930	Nike	Search	Male	25-35	30 days	YouTube	0.14	12,690.00	5.03	Mumbai	190	8630	3	Stylist
+931	The north face	Influencer	Male	45-60	45 days	Google Ads	0.1	11,195.00	2.54	Mumbai	414	4283	1	Nomadics
+932	Nike	Influencer	Male	25-35	30 days	Google Ads	0.11	6,648.00	7.13	Kolkata	713	5869	7	Techie
+933	Puma	Email	Female	25-35	15 days	YouTube	0.09	5,733.00	4.18	Kolkata	459	8693	10	Stylist
+934	The north face	Display	Female	45-60	15 days	Instagram	0.02	17,840.00	4.58	Kolkata	924	6806	7	Stylist
+936	Nike	Display	Female	35-45	15 days	Email	0.01	14,879.00	6.95	Kolkata	669	2602	4	Nomadics
+937	The north face	Search	Female	25-35	60 days	Instagram	0.09	19,242.00	7.48	Kolkata	575	9472	4	Techie
+938	Wildcraft 	Search	Female	45-60	30 days	Facebook	0.06	18,986.00	2.17	Mumbai	949	3407	6	Nomadics
+939	Puma	Influencer	Female	18-25	45 days	Email	0.05	15,015.00	5.24	Indore	153	3792	7	Nomadics
+940	HRX	Email	Female	35-45	45 days	Facebook	0.03	7,444.00	3.13	Chennai	630	7897	1	Stylist
+941	HRX	Search	Male	35-45	60 days	Email	0.08	16,910.00	4.42	Mumbai	477	7015	4	Nomadics
+942	HRX	Social Media	Male	45-60	15 days	Facebook	0.13	10,548.00	5.78	Chennai	177	1549	10	Nomadics
+943	The north face	Email	Male	45-60	30 days	Instagram	0.11	19,312.00	6.8	Chennai	372	3563	10	Stylist
+944	The north face	Influencer	Male	35-45	30 days	Email	0.02	14,998.00	4.69	Delhi	248	7035	8	Fitness freak
+945	Puma	Email	Male	45-60	15 days	Email	0.09	13,388.00	7.89	Mumbai	697	4889	5	Stylist
+946	Nike	Search	Male	45-60	15 days	Facebook	0.12	7,281.00	3.32	Chennai	482	2320	3	Techie
+949	Wildcraft 	Email	Female	35-45	45 days	Email	0.09	17,701.00	4.11	Kolkata	677	1433	10	Stylist
+950	Wildcraft 	Search	Female	25-35	45 days	Facebook	0.11	12,349.00	6.29	Delhi	158	7037	2	Fitness freak
+951	Wildcraft 	Display	Male	45-60	45 days	Facebook	0.03	16,056.00	7.04	Chennai	127	4510	8	Techie
+953	The north face	Search	Female	25-35	30 days	YouTube	0.1	12,982.00	3.09	Indore	505	4067	6	Techie
+955	Wildcraft 	Influencer	Male	35-45	30 days	Instagram	0.09	13,468.00	6.79	Chennai	404	5112	8	Stylist
+956	Wildcraft 	Display	Male	25-35	30 days	Email	0.05	8,665.00	3.04	Indore	199	5946	5	Fitness freak
+957	Wildcraft 	Search	Male	25-35	15 days	Instagram	0.05	17,384.00	5.69	Chennai	812	7917	2	Fitness freak
+958	Wildcraft 	Influencer	Male	18-25	45 days	Instagram	0.06	17,718.00	4.79	Mumbai	873	2443	2	Techie
+959	HRX	Search	Male	25-35	15 days	YouTube	0.14	18,049.00	3.64	Mumbai	426	4376	8	Stylist
+960	The north face	Search	Female	35-45	60 days	Website	0.09	18,860.00	3.78	Chennai	261	8502	9	Stylist
+961	Wildcraft 	Social Media	Female	35-45	15 days	YouTube	0.1	5,836.00	5.86	Chennai	314	3828	6	Nomadics
+962	Puma	Influencer	Female	45-60	45 days	Google Ads	0.06	16,266.00	7.58	Delhi	839	3721	1	Stylist
+963	Wildcraft 	Social Media	Female	18-25	45 days	Google Ads	0.14	11,413.00	6.19	Kolkata	650	8387	4	Techie
+964	Nike	Search	Female	45-60	15 days	YouTube	0.14	15,394.00	4.35	Indore	964	1864	8	Techie
+965	Nike	Influencer	Male	18-25	45 days	YouTube	0.14	14,400.00	3.85	Chennai	612	9930	1	Nomadics
+966	The north face	Social Media	Female	18-25	60 days	Facebook	0.11	15,481.00	2.19	Mumbai	392	6616	9	Fitness freak
+967	HRX	Influencer	Female	35-45	15 days	Google Ads	0.01	17,981.00	7.28	Mumbai	838	2786	9	Stylist
+968	Nike	Search	Female	25-35	45 days	Email	0.13	8,354.00	3.88	Mumbai	579	3621	9	Nomadics
+969	Puma	Social Media	Male	18-25	30 days	Website	0.12	9,368.00	5.88	Delhi	861	9787	7	Techie
+970	Nike	Email	Male	45-60	45 days	Instagram	0.06	6,267.00	2.22	Delhi	449	4079	8	Fitness freak
+971	Puma	Display	Male	45-60	30 days	Website	0.13	14,885.00	3.81	Indore	284	8316	10	Techie
+972	Nike	Email	Male	25-35	60 days	Website	0.1	11,392.00	7.7	Chennai	281	7684	4	Techie
+973	Nike	Search	Male	45-60	15 days	Website	0.01	14,354.00	7.62	Indore	511	8161	6	Fitness freak
+976	Puma	Influencer	Male	35-45	15 days	Facebook	0.11	14,025.00	4.07	Indore	389	7340	6	Nomadics
+977	Nike	Display	Female	25-35	15 days	YouTube	0.05	11,182.00	6.61	Chennai	676	8911	10	Fitness freak
+979	Nike	Social Media	Female	18-25	45 days	Website	0.03	15,407.00	4.46	Indore	543	7063	4	Nomadics
+980	The north face	Email	Female	25-35	60 days	Facebook	0.07	8,913.00	6.75	Kolkata	320	8387	3	Stylist
+981	Puma	Search	Female	25-35	45 days	Facebook	0.14	6,707.00	6.9	Chennai	707	2896	1	Stylist
+982	Wildcraft 	Social Media	Male	25-35	30 days	YouTube	0.14	13,497.00	6.47	Kolkata	456	1331	8	Techie
+983	Nike	Email	Male	45-60	30 days	Google Ads	0.06	5,242.00	7.04	Delhi	135	9993	5	Stylist
+984	The north face	Search	Male	25-35	30 days	Facebook	0.15	15,196.00	4	Chennai	756	1033	3	Fitness freak
+985	HRX	Search	Female	18-25	15 days	Facebook	0.14	12,781.00	5.95	Kolkata	563	5658	1	Techie
+986	Wildcraft 	Influencer	Female	25-35	15 days	Email	0.08	12,051.00	5.02	Kolkata	845	5348	9	Nomadics
+987	Wildcraft 	Email	Female	25-35	15 days	Google Ads	0.01	5,751.00	6.88	Kolkata	614	7483	6	Stylist
+988	The north face	Display	Female	25-35	60 days	Google Ads	0.04	14,597.00	7.82	Mumbai	365	5084	2	Nomadics
+990	HRX	Email	Female	45-60	15 days	YouTube	0.03	11,286.00	2.57	Indore	272	3487	4	Techie
+991	The north face	Social Media	Male	25-35	15 days	Facebook	0.09	17,488.00	4.53	Mumbai	172	9474	8	Nomadics
+992	Puma	Display	Female	25-35	30 days	Facebook	0.11	13,062.00	3.56	Indore	248	8402	3	Nomadics
+993	Nike	Influencer	Male	45-60	45 days	Email	0.03	6,046.00	6.27	Indore	659	7908	4	Nomadics
+994	Nike	Social Media	Male	18-25	15 days	YouTube	0.15	6,350.00	2.9	Chennai	910	7119	3	Techie
+995	Wildcraft 	Display	Male	25-35	60 days	Instagram	0.06	6,382.00	6.85	Kolkata	813	3274	3	Stylist
+996	Nike	Influencer	Male	25-35	45 days	Facebook	0.09	13,474.00	5.8	Indore	861	1819	2	Techie
+998	Nike	Display	Male	45-60	15 days	Website	0.01	8,243.00	5.68	Delhi	236	2039	9	Fitness freak
+999	The north face	Social Media	Female	35-45	60 days	Facebook	0.05	9,201.00	5.04	Mumbai	377	2990	9	Techie
+1000	Nike	Search	Female	25-35	60 days	Website	0.06	12,185.00	3.92	Mumbai	219	7722	8	Stylist
+1001	Wildcraft 	Display	Female	18-25	60 days	Website	0.13	12,330.00	2.1	Chennai	821	2912	5	Stylist
+1002	Wildcraft 	Influencer	Female	18-25	15 days	Google Ads	0.1	14,715.00	7.49	Indore	626	8609	8	Stylist
+1003	Nike	Display	Male	25-35	45 days	Google Ads	0.08	10,464.00	4.19	Mumbai	452	3369	6	Nomadics
+1004	HRX	Email	Male	45-60	45 days	Google Ads	0.11	13,202.00	3.01	Indore	320	4629	1	Stylist
+1005	The north face	Email	Female	35-45	15 days	YouTube	0.03	5,466.00	2.78	Kolkata	329	5844	4	Nomadics
+1006	Nike	Search	Female	25-35	60 days	YouTube	0.08	13,690.00	3.64	Delhi	362	9270	5	Nomadics
+1008	Puma	Search	Female	35-45	60 days	YouTube	0.08	10,684.00	5.82	Kolkata	319	8621	7	Nomadics
+1009	Puma	Search	Female	25-35	60 days	Google Ads	0.09	8,881.00	4.29	Delhi	761	3508	5	Fitness freak
+1011	The north face	Search	Male	18-25	30 days	Email	0.12	18,454.00	4.21	Chennai	386	1041	3	Fitness freak
+1013	The north face	Search	Male	35-45	45 days	Website	0.11	14,148.00	3.92	Chennai	365	9296	5	Nomadics
+1014	HRX	Influencer	Male	18-25	45 days	Website	0.13	14,185.00	7.93	Indore	352	9733	4	Techie
+1015	The north face	Search	Male	18-25	45 days	YouTube	0.13	6,934.00	4.42	Kolkata	875	6314	6	Nomadics
+1016	Nike	Search	Male	25-35	30 days	Google Ads	0.04	10,631.00	4.83	Indore	513	7135	8	Stylist
+1017	Puma	Search	Male	18-25	60 days	Website	0.1	6,298.00	6.77	Indore	762	5637	7	Stylist
+1019	Nike	Email	Female	35-45	60 days	Google Ads	0.02	10,707.00	3.73	Mumbai	857	6778	7	Stylist
+1021	HRX	Email	Female	18-25	60 days	Facebook	0.02	19,757.00	7.6	Chennai	185	5341	8	Techie
+1022	Nike	Influencer	Female	35-45	60 days	Website	0.07	13,582.00	2.49	Mumbai	363	6457	3	Stylist
+1023	Wildcraft 	Email	Female	35-45	15 days	Website	0.07	13,393.00	7.05	Delhi	529	4394	6	Stylist
+1025	Wildcraft 	Social Media	Female	25-35	60 days	YouTube	0.04	16,534.00	2.66	Delhi	482	9814	6	Stylist
+1026	The north face	Email	Female	45-60	45 days	Instagram	0.08	15,434.00	7.81	Mumbai	372	5367	8	Nomadics
+1029	Puma	Display	Female	35-45	15 days	YouTube	0.06	12,401.00	2.35	Mumbai	856	6183	7	Nomadics
+1030	Puma	Social Media	Female	35-45	15 days	YouTube	0.09	10,931.00	5.46	Indore	477	7969	3	Nomadics
+1034	Puma	Display	Female	25-35	30 days	Email	0.02	16,385.00	6.89	Indore	439	7749	7	Fitness freak
+1035	Puma	Display	Male	35-45	45 days	YouTube	0.02	5,118.00	2.23	Kolkata	247	8201	5	Fitness freak
+1037	The north face	Search	Male	45-60	15 days	YouTube	0.05	6,436.00	2.59	Mumbai	321	4473	6	Fitness freak
+1038	Puma	Influencer	Female	35-45	45 days	Website	0.08	12,485.00	5.72	Indore	861	7347	9	Nomadics
+1040	Wildcraft 	Email	Male	25-35	15 days	Website	0.13	6,687.00	3.15	Chennai	342	3368	8	Fitness freak
+1042	The north face	Email	Male	18-25	15 days	Facebook	0.13	8,973.00	7.81	Mumbai	330	9334	8	Stylist
+1044	Nike	Search	Female	35-45	60 days	Instagram	0.12	5,798.00	7.54	Chennai	136	9814	6	Nomadics
+1045	HRX	Influencer	Male	25-35	15 days	Facebook	0.08	13,149.00	4.81	Chennai	735	4576	8	Fitness freak
+1046	The north face	Search	Female	25-35	60 days	Website	0.12	11,572.00	7.37	Kolkata	847	9232	1	Nomadics
+1047	Wildcraft 	Social Media	Female	45-60	60 days	Website	0.12	16,545.00	3.42	Chennai	153	8218	6	Nomadics
+1048	The north face	Email	Female	45-60	45 days	Instagram	0.14	17,124.00	7.05	Kolkata	840	9507	6	Nomadics
+1049	Nike	Search	Female	35-45	30 days	Website	0.12	5,658.00	2.63	Mumbai	989	7097	5	Fitness freak
+1050	Puma	Search	Female	25-35	45 days	Instagram	0.08	5,277.00	4.91	Kolkata	828	7986	7	Fitness freak
+1051	Puma	Email	Male	45-60	15 days	Facebook	0.03	15,989.00	7.87	Delhi	647	8191	9	Techie
+1052	HRX	Social Media	Male	35-45	45 days	YouTube	0.09	17,107.00	2.72	Chennai	256	8879	7	Techie
+1053	Wildcraft 	Social Media	Male	25-35	45 days	Facebook	0.02	11,839.00	6.14	Chennai	342	7885	2	Nomadics
+1054	HRX	Email	Male	18-25	15 days	Instagram	0.12	10,878.00	7.67	Mumbai	184	1473	4	Stylist
+1055	HRX	Influencer	Male	25-35	60 days	Google Ads	0.02	10,781.00	2.57	Delhi	484	8897	5	Fitness freak
+1056	HRX	Email	Male	45-60	60 days	YouTube	0.14	19,447.00	2.83	Chennai	618	6007	8	Nomadics
+1057	Nike	Email	Male	18-25	45 days	Google Ads	0.02	5,689.00	3.7	Indore	844	6015	1	Fitness freak
+1058	HRX	Email	Female	18-25	60 days	YouTube	0.07	5,286.00	7.89	Kolkata	477	9707	9	Nomadics
+1059	Puma	Influencer	Female	45-60	15 days	Facebook	0.06	9,524.00	2.47	Delhi	895	8309	4	Fitness freak
+1060	HRX	Email	Female	45-60	30 days	YouTube	0.1	19,110.00	7.83	Kolkata	928	5672	4	Techie
+1061	Puma	Social Media	Male	18-25	30 days	Email	0.02	17,556.00	7.76	Indore	207	1040	9	Fitness freak
+1063	Nike	Email	Female	25-35	30 days	Instagram	0.03	7,968.00	6.49	Delhi	585	8079	4	Stylist
+1064	Nike	Display	Male	25-35	15 days	Google Ads	0.03	17,331.00	3.5	Chennai	412	6594	2	Fitness freak
+1065	The north face	Social Media	Male	25-35	15 days	YouTube	0.12	12,243.00	7.92	Chennai	707	7153	2	Stylist
+1066	Nike	Search	Male	45-60	15 days	Google Ads	0.15	11,598.00	7.82	Indore	965	7713	10	Fitness freak
+1068	Nike	Search	Male	18-25	30 days	Google Ads	0.06	16,039.00	3.79	Indore	567	3245	9	Techie
+1069	HRX	Display	Male	25-35	60 days	Instagram	0.02	12,170.00	4.29	Kolkata	334	6522	3	Stylist
+1071	Puma	Influencer	Female	35-45	30 days	Website	0.14	17,590.00	3.88	Delhi	394	6348	5	Fitness freak
+1072	Nike	Display	Female	18-25	30 days	Instagram	0.09	6,973.00	7.36	Delhi	196	3688	6	Stylist
+1073	HRX	Social Media	Female	45-60	30 days	Email	0.12	10,891.00	3.58	Mumbai	869	1337	7	Nomadics
+1074	Puma	Display	Female	25-35	60 days	Website	0.09	13,171.00	5.14	Delhi	269	1742	6	Fitness freak
+1075	The north face	Email	Male	35-45	30 days	Website	0.11	18,096.00	5.59	Kolkata	277	9714	3	Techie
+1076	Nike	Display	Female	18-25	60 days	Website	0.05	17,722.00	7.04	Delhi	366	4329	8	Fitness freak
+1077	Puma	Email	Female	18-25	45 days	YouTube	0.08	12,534.00	3.02	Delhi	739	9453	1	Stylist
+1078	Puma	Social Media	Female	25-35	15 days	Website	0.11	19,110.00	5.46	Mumbai	644	7689	7	Stylist
+1079	Wildcraft 	Influencer	Male	45-60	30 days	Website	0.07	6,519.00	3.96	Mumbai	410	4180	1	Stylist
+1080	Wildcraft 	Search	Male	25-35	30 days	Email	0.08	9,752.00	4.18	Chennai	400	6343	3	Nomadics
+1081	Puma	Influencer	Male	35-45	45 days	Facebook	0.03	15,624.00	7.43	Chennai	180	3104	2	Techie
+1084	HRX	Search	Male	18-25	30 days	YouTube	0.02	13,127.00	7.1	Kolkata	715	8345	3	Techie
+1085	Wildcraft 	Influencer	Male	25-35	45 days	Instagram	0.14	17,125.00	6.45	Indore	453	4959	10	Fitness freak
+1086	The north face	Search	Male	25-35	30 days	Facebook	0.01	13,494.00	5.74	Indore	956	3826	6	Stylist
+1087	HRX	Display	Female	35-45	45 days	Google Ads	0.06	18,640.00	4.53	Indore	169	6748	2	Techie
+1088	Wildcraft 	Social Media	Female	25-35	45 days	Website	0.08	12,399.00	6.25	Chennai	418	4717	8	Nomadics
+1089	Nike	Influencer	Female	35-45	15 days	Instagram	0.13	17,611.00	4.91	Kolkata	419	2048	6	Techie
+1090	Wildcraft 	Search	Female	18-25	30 days	Email	0.09	13,318.00	5.21	Chennai	859	2908	3	Nomadics
+1091	The north face	Social Media	Female	25-35	15 days	Facebook	0.03	8,642.00	5.11	Delhi	378	9150	8	Nomadics
+1092	Nike	Influencer	Male	25-35	45 days	Website	0.05	6,153.00	7.61	Delhi	783	9599	3	Nomadics
+1093	Puma	Search	Male	35-45	30 days	Google Ads	0.04	14,293.00	5.08	Mumbai	627	3207	3	Fitness freak
+1094	Nike	Social Media	Male	25-35	30 days	Google Ads	0.02	5,982.00	4.32	Mumbai	366	3970	5	Fitness freak
+1095	Nike	Display	Female	18-25	30 days	Instagram	0.09	14,555.00	7.8	Chennai	193	3107	3	Nomadics
+1096	Nike	Email	Female	35-45	15 days	Email	0.03	9,096.00	7.17	Delhi	506	2340	9	Fitness freak
+1097	Puma	Search	Female	35-45	45 days	Instagram	0.06	10,792.00	6.31	Kolkata	462	8767	9	Nomadics
+1098	The north face	Email	Female	25-35	60 days	Google Ads	0.02	8,145.00	2.32	Delhi	152	9117	6	Fitness freak
+1099	The north face	Social Media	Male	25-35	30 days	Google Ads	0.11	6,112.00	2.77	Delhi	650	2250	4	Techie
+1101	HRX	Influencer	Male	25-35	45 days	Email	0.02	15,814.00	2.11	Indore	913	6422	5	Techie
+1102	Puma	Display	Female	25-35	30 days	Google Ads	0.01	17,410.00	7.07	Chennai	127	2555	9	Stylist
+1103	Puma	Display	Male	25-35	45 days	Instagram	0.05	15,643.00	2.4	Delhi	709	6456	4	Stylist
+1104	Wildcraft 	Email	Male	25-35	45 days	Website	0.08	12,282.00	7.54	Indore	546	1546	8	Fitness freak
+1105	The north face	Social Media	Male	18-25	30 days	Website	0.15	13,306.00	5.91	Indore	858	4117	2	Nomadics
+1106	Wildcraft 	Influencer	Male	25-35	30 days	Google Ads	0.08	9,778.00	6.44	Chennai	472	3678	9	Fitness freak
+1107	Nike	Email	Female	25-35	30 days	Instagram	0.07	12,768.00	7.69	Mumbai	885	5589	2	Stylist
+1108	HRX	Search	Male	45-60	15 days	Google Ads	0.06	12,906.00	7.56	Indore	183	5072	1	Fitness freak
+1109	Puma	Social Media	Female	35-45	15 days	Facebook	0.13	8,058.00	5.54	Indore	840	7794	10	Stylist
+1111	Wildcraft 	Email	Female	18-25	60 days	Email	0.14	7,284.00	3.08	Mumbai	853	8408	7	Stylist
+1112	Puma	Search	Female	25-35	30 days	Facebook	0.03	8,458.00	3.71	Kolkata	509	5927	4	Fitness freak
+1113	Wildcraft 	Social Media	Male	18-25	60 days	Facebook	0.08	5,836.00	2.42	Delhi	944	8955	7	Nomadics
+1114	Puma	Influencer	Male	18-25	15 days	Google Ads	0.04	5,248.00	2.24	Chennai	120	9048	10	Techie
+1115	HRX	Display	Female	18-25	45 days	Facebook	0.14	16,832.00	5.12	Delhi	842	5390	4	Stylist
+1116	Puma	Search	Female	25-35	15 days	Website	0.13	14,319.00	6.02	Indore	180	4005	5	Stylist
+1117	Nike	Influencer	Male	25-35	45 days	Facebook	0.03	19,030.00	2.28	Indore	574	8528	4	Stylist
+1118	Nike	Display	Female	35-45	60 days	Website	0.03	8,513.00	2.2	Indore	632	8363	10	Stylist
+1119	Puma	Influencer	Female	45-60	45 days	Instagram	0.05	17,126.00	4.82	Delhi	992	9390	10	Nomadics
+1120	The north face	Email	Female	35-45	45 days	Facebook	0.11	5,278.00	6.53	Indore	855	8068	7	Techie
+1121	Puma	Display	Male	45-60	15 days	Instagram	0.08	15,850.00	6.39	Mumbai	452	5105	5	Nomadics
+1122	The north face	Email	Male	45-60	60 days	Google Ads	0.06	7,411.00	4.78	Delhi	824	1319	6	Stylist
+1123	The north face	Search	Male	18-25	45 days	Website	0.06	10,879.00	7.51	Mumbai	821	5282	10	Nomadics
+1124	Puma	Display	Male	18-25	15 days	Instagram	0.09	12,005.00	6.67	Chennai	685	6160	9	Techie
+1126	The north face	Search	Male	35-45	15 days	Google Ads	0.15	16,880.00	3.71	Kolkata	310	3715	10	Fitness freak
+1127	HRX	Influencer	Male	45-60	30 days	YouTube	0.02	8,006.00	6.19	Kolkata	863	6397	6	Stylist
+1128	HRX	Search	Male	25-35	60 days	YouTube	0.07	14,232.00	7.76	Indore	618	9201	6	Nomadics
+1129	Puma	Social Media	Female	25-35	15 days	Google Ads	0.1	11,176.00	5.58	Chennai	516	6536	2	Stylist
+1131	Puma	Display	Female	25-35	45 days	Website	0.08	7,908.00	6.81	Delhi	473	5779	2	Nomadics
+1132	Puma	Social Media	Female	45-60	60 days	Website	0.13	19,984.00	7.86	Indore	625	9956	7	Fitness freak
+1134	Wildcraft 	Search	Male	35-45	15 days	Facebook	0.06	6,307.00	2.4	Indore	278	6408	9	Techie
+1135	Puma	Email	Female	35-45	45 days	Instagram	0.1	6,831.00	6.33	Kolkata	387	5535	6	Techie
+1137	Nike	Display	Male	35-45	15 days	Email	0.13	6,562.00	6.69	Delhi	227	1580	2	Stylist
+1138	HRX	Search	Male	25-35	45 days	YouTube	0.06	15,978.00	4.78	Kolkata	345	8154	6	Nomadics
+1139	The north face	Email	Female	25-35	45 days	Instagram	0.11	19,404.00	6.48	Chennai	976	8983	6	Nomadics
+1140	Nike	Email	Female	45-60	30 days	YouTube	0.13	12,141.00	5.6	Delhi	637	3443	10	Fitness freak
+1141	Wildcraft 	Search	Male	35-45	30 days	Website	0.14	13,610.00	4.65	Kolkata	292	8061	9	Techie
+1143	Wildcraft 	Search	Male	35-45	60 days	YouTube	0.07	18,043.00	3.64	Indore	280	5790	7	Techie
+1144	HRX	Display	Female	25-35	45 days	Website	0.13	12,425.00	6.37	Delhi	107	7609	4	Stylist
+1145	Puma	Email	Male	18-25	45 days	Facebook	0.05	8,322.00	4.25	Delhi	895	1329	7	Techie
+1146	Wildcraft 	Influencer	Female	45-60	45 days	Email	0.08	14,952.00	7.51	Delhi	829	1026	8	Stylist
+1147	HRX	Display	Male	25-35	45 days	Website	0.03	18,271.00	4.32	Mumbai	361	9029	7	Nomadics
+1148	HRX	Email	Female	25-35	45 days	Instagram	0.13	6,611.00	7.49	Mumbai	799	2610	5	Techie
+1149	Nike	Social Media	Male	18-25	15 days	Instagram	0.07	12,296.00	6.87	Delhi	232	4763	10	Fitness freak
+1150	Nike	Social Media	Male	35-45	15 days	Instagram	0.03	6,969.00	5.68	Indore	587	1854	9	Fitness freak
+1151	Wildcraft 	Influencer	Male	25-35	45 days	Facebook	0.13	9,798.00	2.39	Indore	494	3817	7	Techie
+1153	Puma	Search	Female	18-25	60 days	Website	0.03	10,858.00	7.43	Delhi	596	6777	2	Stylist
+1154	Wildcraft 	Search	Female	25-35	45 days	Email	0.02	17,554.00	3.45	Mumbai	164	6215	8	Stylist
+1155	HRX	Search	Male	45-60	15 days	Google Ads	0.05	15,329.00	3.24	Indore	227	7182	4	Techie
+1156	Puma	Social Media	Female	25-35	15 days	Google Ads	0.05	14,414.00	2.86	Indore	942	3352	9	Techie
+1157	The north face	Email	Female	18-25	60 days	YouTube	0.14	9,003.00	2.28	Indore	321	7325	6	Techie
+1158	HRX	Search	Female	18-25	15 days	Email	0.14	6,663.00	4.65	Chennai	649	8962	10	Fitness freak
+1159	Nike	Influencer	Female	25-35	30 days	Website	0.08	10,302.00	2.17	Kolkata	815	7909	10	Nomadics
+1160	Nike	Social Media	Female	25-35	30 days	Google Ads	0.09	5,921.00	3.46	Chennai	128	9228	3	Nomadics
+1161	The north face	Social Media	Male	25-35	30 days	Email	0.1	12,014.00	7.33	Kolkata	950	4141	5	Fitness freak
+1162	Nike	Display	Male	25-35	15 days	Website	0.08	14,968.00	6.35	Delhi	245	3369	8	Stylist
+1163	HRX	Social Media	Male	25-35	15 days	Instagram	0.12	6,443.00	3.17	Mumbai	744	9681	1	Fitness freak
+1165	Puma	Influencer	Male	25-35	30 days	Google Ads	0.08	5,765.00	6.8	Indore	766	5597	6	Techie
+1166	The north face	Social Media	Male	18-25	60 days	Instagram	0.06	6,438.00	6.6	Kolkata	102	1532	4	Fitness freak
+1167	Wildcraft 	Display	Male	25-35	45 days	Email	0.09	8,388.00	5.4	Indore	677	6804	9	Fitness freak
+1168	HRX	Social Media	Female	25-35	60 days	Google Ads	0.07	17,462.00	6.7	Chennai	175	2931	1	Stylist
+1169	Nike	Email	Female	35-45	15 days	Google Ads	0.03	13,678.00	5.31	Kolkata	327	4394	7	Fitness freak
+1170	The north face	Email	Female	25-35	30 days	Website	0.1	13,641.00	3.59	Indore	516	8060	8	Fitness freak
+1171	The north face	Influencer	Male	35-45	15 days	Instagram	0.08	12,181.00	7.82	Indore	781	4910	1	Nomadics
+1172	Puma	Search	Female	18-25	30 days	Email	0.07	13,398.00	4.7	Indore	461	7530	2	Stylist
+1173	The north face	Display	Female	25-35	30 days	Facebook	0.1	5,635.00	4.66	Kolkata	709	2439	10	Nomadics
+1175	Nike	Influencer	Male	45-60	30 days	Facebook	0.01	8,846.00	6.13	Delhi	538	1921	9	Nomadics
+1176	Puma	Influencer	Male	25-35	15 days	Website	0.1	12,902.00	3.33	Indore	871	8270	7	Fitness freak
+1177	Puma	Influencer	Male	25-35	15 days	Email	0.04	12,678.00	5.87	Delhi	366	7287	9	Techie
+1178	The north face	Display	Male	35-45	45 days	Instagram	0.12	10,094.00	3.09	Kolkata	289	7405	1	Fitness freak
+1179	Nike	Email	Male	25-35	30 days	Instagram	0.08	18,081.00	7.71	Kolkata	570	2204	4	Fitness freak
+1180	Puma	Display	Female	25-35	60 days	YouTube	0.09	6,751.00	2.15	Delhi	673	7728	8	Fitness freak
+1181	Puma	Search	Female	35-45	60 days	Facebook	0.11	6,039.00	6.74	Mumbai	207	1566	9	Techie
+1183	The north face	Search	Female	45-60	45 days	Instagram	0.02	8,967.00	6.79	Delhi	702	2277	4	Techie
+1184	Wildcraft 	Social Media	Female	18-25	60 days	Website	0.02	11,393.00	6.94	Indore	610	2812	2	Stylist
+1185	HRX	Influencer	Male	25-35	15 days	Email	0.06	16,300.00	6.11	Mumbai	312	3934	10	Techie
+1186	Nike	Search	Female	25-35	60 days	Email	0.12	16,102.00	4.26	Mumbai	446	7514	10	Techie
+1187	The north face	Influencer	Female	18-25	15 days	Website	0.13	17,962.00	3.06	Delhi	568	2810	8	Nomadics
+1188	The north face	Influencer	Female	35-45	60 days	Website	0.02	18,338.00	7.23	Kolkata	426	1421	2	Techie
+1190	Wildcraft 	Email	Male	45-60	45 days	Google Ads	0.14	16,191.00	5.81	Mumbai	295	3938	8	Stylist
+1191	HRX	Influencer	Male	45-60	60 days	Email	0.12	6,326.00	6.98	Delhi	939	8978	9	Techie
+1192	HRX	Search	Male	35-45	60 days	YouTube	0.11	14,510.00	3.64	Chennai	337	9150	1	Fitness freak
+1193	Wildcraft 	Search	Male	25-35	60 days	Facebook	0.1	15,235.00	4.22	Indore	507	3468	4	Stylist
+1194	Wildcraft 	Influencer	Male	25-35	60 days	YouTube	0.1	9,555.00	3.15	Chennai	583	5029	1	Nomadics
+1195	HRX	Social Media	Male	25-35	45 days	Website	0.09	16,140.00	6	Kolkata	416	4503	6	Techie
+1196	Puma	Email	Male	25-35	45 days	Google Ads	0.08	14,605.00	4.31	Chennai	196	8930	4	Nomadics
+1197	HRX	Display	Female	45-60	30 days	Email	0.06	8,448.00	2.24	Indore	380	5457	3	Techie
+1198	Wildcraft 	Influencer	Female	45-60	60 days	YouTube	0.07	11,961.00	4.58	Mumbai	911	1482	2	Techie
+1199	Nike	Influencer	Female	25-35	45 days	Website	0.08	11,562.00	2.87	Chennai	491	8285	8	Fitness freak
+1200	Nike	Display	Female	25-35	15 days	Instagram	0.07	11,411.00	3.28	Kolkata	814	8802	2	Fitness freak
+1201	Puma	Display	Female	35-45	30 days	Google Ads	0.07	17,618.00	2.52	Indore	704	3284	4	Stylist
+1203	Nike	Display	Male	45-60	30 days	Google Ads	0.14	16,487.00	2.61	Delhi	777	8956	1	Stylist
+1204	Wildcraft 	Email	Male	18-25	45 days	Website	0.1	11,108.00	5.59	Chennai	799	9038	9	Nomadics
+1207	Puma	Search	Female	25-35	30 days	Google Ads	0.14	6,223.00	2.96	Chennai	317	5716	7	Stylist
+1208	HRX	Social Media	Female	35-45	60 days	Email	0.06	15,356.00	2.04	Indore	659	4479	2	Techie
+1209	The north face	Search	Male	35-45	15 days	YouTube	0.1	14,468.00	5.57	Kolkata	153	3944	7	Stylist
+1210	HRX	Search	Female	25-35	45 days	Facebook	0.13	18,424.00	5.39	Delhi	514	7627	2	Nomadics
+1211	Wildcraft 	Display	Male	18-25	15 days	Instagram	0.11	11,044.00	2.94	Delhi	313	1921	9	Stylist
+1213	Wildcraft 	Social Media	Male	35-45	60 days	YouTube	0.01	9,837.00	3.91	Mumbai	347	5540	8	Nomadics
+1214	Puma	Search	Male	35-45	45 days	Email	0.1	9,823.00	5.81	Delhi	436	9473	9	Stylist
+1215	Wildcraft 	Display	Male	45-60	15 days	Google Ads	0.11	10,035.00	4.91	Indore	803	7069	3	Stylist
+1216	Wildcraft 	Display	Male	35-45	45 days	YouTube	0.14	16,344.00	4.7	Delhi	637	3550	7	Stylist
+1217	Nike	Email	Female	18-25	30 days	Website	0.05	5,457.00	5.51	Chennai	275	2061	1	Stylist
+1218	Nike	Search	Male	35-45	30 days	YouTube	0.06	8,795.00	4.55	Delhi	363	4328	8	Techie
+1220	HRX	Email	Female	45-60	60 days	Email	0.1	12,232.00	7.02	Delhi	540	9645	7	Techie
+1221	Nike	Email	Female	35-45	45 days	Facebook	0.02	10,416.00	5.04	Chennai	940	3369	4	Nomadics
+1222	HRX	Email	Female	18-25	45 days	Website	0.1	6,609.00	7.01	Kolkata	248	8672	6	Techie
+1223	Puma	Social Media	Male	18-25	60 days	Facebook	0.05	9,140.00	6.55	Mumbai	120	9707	8	Nomadics
+1224	Puma	Search	Male	18-25	60 days	Facebook	0.1	13,089.00	7.16	Mumbai	841	9096	10	Fitness freak
+1225	Wildcraft 	Search	Female	25-35	60 days	Website	0.1	7,103.00	5.99	Kolkata	951	2784	7	Techie
+1226	The north face	Search	Female	35-45	60 days	YouTube	0.06	5,260.00	5.57	Delhi	394	3067	4	Stylist
+1227	Puma	Search	Male	18-25	30 days	Instagram	0.1	5,005.00	7.79	Delhi	352	5797	1	Stylist
+1228	The north face	Social Media	Female	25-35	60 days	Website	0.06	10,711.00	5.25	Indore	517	3737	2	Stylist
+1229	HRX	Influencer	Female	35-45	30 days	Google Ads	0.08	16,951.00	4.4	Kolkata	746	6825	2	Techie
+1231	Nike	Social Media	Male	25-35	15 days	YouTube	0.11	17,248.00	4.19	Delhi	276	3663	7	Techie
+1232	Wildcraft 	Influencer	Male	25-35	60 days	Website	0.05	19,306.00	2.06	Chennai	220	8982	2	Fitness freak
+1233	Puma	Email	Male	45-60	15 days	Instagram	0.09	18,086.00	5.12	Kolkata	585	9994	10	Nomadics
+1235	The north face	Influencer	Male	35-45	30 days	Email	0.14	11,686.00	4.17	Kolkata	920	7372	4	Stylist
+1236	Puma	Email	Male	35-45	30 days	YouTube	0.12	9,205.00	6.87	Kolkata	169	3069	2	Stylist
+1237	Wildcraft 	Influencer	Male	25-35	15 days	Website	0.06	12,632.00	3.4	Mumbai	917	4573	1	Stylist
+1238	Nike	Influencer	Male	18-25	15 days	Email	0.08	11,987.00	2.63	Mumbai	610	9003	7	Nomadics
+1239	Puma	Influencer	Female	25-35	15 days	Google Ads	0.13	5,426.00	5.7	Mumbai	790	1231	1	Fitness freak
+1240	The north face	Social Media	Female	35-45	60 days	Instagram	0.06	10,206.00	2.04	Mumbai	502	3857	5	Techie
+1241	The north face	Social Media	Female	45-60	45 days	YouTube	0.11	11,481.00	2.49	Kolkata	470	4646	6	Nomadics
+1243	Nike	Influencer	Female	25-35	45 days	Website	0.07	7,252.00	5.04	Indore	253	9937	5	Stylist
+1244	Wildcraft 	Search	Male	25-35	60 days	Website	0.03	7,730.00	4.7	Mumbai	471	7396	6	Stylist
+1245	Puma	Search	Female	35-45	45 days	Website	0.02	11,002.00	6.62	Kolkata	610	6070	6	Nomadics
+1246	HRX	Influencer	Female	25-35	45 days	Website	0.07	18,808.00	4.77	Kolkata	388	6027	6	Stylist
+1247	Wildcraft 	Display	Male	18-25	45 days	Facebook	0.13	11,083.00	3.98	Kolkata	605	4317	10	Nomadics
+1248	Puma	Social Media	Male	35-45	45 days	Website	0.01	5,054.00	7.49	Kolkata	286	9672	1	Techie
+1249	Nike	Influencer	Female	25-35	60 days	Email	0.07	12,291.00	5.07	Kolkata	246	7494	6	Stylist
+1250	Puma	Search	Female	25-35	15 days	Email	0.05	10,726.00	4.86	Indore	127	9756	4	Stylist
+1251	Wildcraft 	Search	Male	18-25	15 days	Website	0.11	17,472.00	2.27	Kolkata	891	2610	3	Techie
+1252	HRX	Search	Female	25-35	60 days	YouTube	0.09	7,148.00	4.84	Delhi	318	2304	10	Fitness freak
+1254	Wildcraft 	Social Media	Female	25-35	60 days	Email	0.13	11,279.00	7.96	Mumbai	907	7665	7	Techie
+1256	Wildcraft 	Search	Female	25-35	30 days	Facebook	0.11	13,165.00	6.74	Indore	941	2739	6	Techie
+1257	Wildcraft 	Search	Male	18-25	15 days	Website	0.08	11,233.00	6.2	Kolkata	368	7283	1	Fitness freak
+1258	The north face	Search	Female	45-60	15 days	Website	0.11	18,780.00	2.28	Chennai	328	9431	8	Nomadics
+1259	Puma	Influencer	Male	45-60	15 days	Email	0.1	11,636.00	2.37	Indore	119	7839	8	Nomadics
+1260	HRX	Email	Male	25-35	45 days	Website	0.11	17,665.00	7.53	Indore	365	9436	5	Techie
+1261	Nike	Display	Male	25-35	15 days	Website	0.06	10,209.00	4.09	Indore	284	5157	5	Fitness freak
+1263	Wildcraft 	Search	Female	25-35	15 days	YouTube	0.14	15,297.00	7.12	Chennai	265	7834	3	Nomadics
+1264	HRX	Display	Female	35-45	60 days	YouTube	0.1	5,447.00	6.32	Indore	138	8791	3	Fitness freak
+1266	HRX	Search	Female	25-35	15 days	YouTube	0.01	17,574.00	7.69	Delhi	625	5049	3	Fitness freak
+1267	Puma	Social Media	Female	45-60	30 days	Instagram	0.05	5,803.00	7.9	Kolkata	266	8142	10	Techie
+1268	The north face	Influencer	Female	45-60	15 days	Google Ads	0.07	18,341.00	7.43	Mumbai	864	6008	1	Nomadics
+1269	Puma	Influencer	Female	25-35	45 days	Facebook	0.05	14,901.00	6.23	Mumbai	746	5680	6	Stylist
+1270	Nike	Search	Female	35-45	60 days	Instagram	0.06	15,082.00	3.23	Chennai	829	2968	7	Fitness freak
+1271	The north face	Display	Male	45-60	30 days	Website	0.14	18,123.00	6.06	Chennai	262	5663	7	Techie
+1272	Wildcraft 	Search	Male	35-45	60 days	YouTube	0.1	18,578.00	2.13	Mumbai	646	9681	2	Fitness freak
+1273	HRX	Influencer	Male	35-45	45 days	YouTube	0.11	5,440.00	5.59	Indore	282	4564	6	Techie
+1274	The north face	Display	Male	35-45	60 days	Facebook	0.1	11,266.00	3.83	Mumbai	252	6510	9	Techie
+1275	Wildcraft 	Email	Male	18-25	45 days	Instagram	0.14	15,558.00	3.92	Kolkata	147	9344	1	Techie
+1277	HRX	Display	Male	45-60	45 days	Website	0.04	13,354.00	6.93	Kolkata	441	3634	5	Nomadics
+1278	Puma	Influencer	Female	45-60	15 days	Instagram	0.07	7,421.00	5.31	Mumbai	160	3976	7	Techie
+1279	Nike	Display	Female	18-25	30 days	YouTube	0.12	8,369.00	7.32	Indore	514	4822	5	Fitness freak
+1281	The north face	Email	Male	45-60	45 days	Instagram	0.1	11,765.00	7.94	Kolkata	810	9792	10	Nomadics
+1282	HRX	Display	Female	45-60	45 days	Google Ads	0.03	8,690.00	2.13	Indore	940	3548	6	Fitness freak
+1284	HRX	Email	Male	35-45	45 days	Google Ads	0.01	8,038.00	5.22	Delhi	671	3348	2	Techie
+1285	HRX	Email	Male	18-25	60 days	Facebook	0.03	9,259.00	6.7	Kolkata	528	8563	5	Techie
+1286	Wildcraft 	Display	Male	25-35	45 days	Instagram	0.05	16,244.00	7.35	Chennai	732	8166	6	Nomadics
+1287	Wildcraft 	Email	Male	45-60	45 days	Google Ads	0.04	17,290.00	5.6	Indore	682	9549	3	Nomadics
+1289	HRX	Influencer	Male	25-35	15 days	Instagram	0.07	18,206.00	3.28	Mumbai	297	5928	6	Stylist
+1290	Nike	Email	Female	45-60	30 days	Google Ads	0.12	14,121.00	2.15	Mumbai	619	4612	4	Fitness freak
+1291	Wildcraft 	Influencer	Female	25-35	45 days	Email	0.06	10,597.00	2.03	Delhi	781	4187	3	Techie
+1292	HRX	Email	Female	45-60	45 days	Email	0.12	8,829.00	2.48	Indore	905	9237	1	Stylist
+1293	Nike	Influencer	Female	45-60	60 days	Facebook	0.1	16,458.00	6.07	Mumbai	149	4307	8	Fitness freak
+1296	Wildcraft 	Email	Female	35-45	15 days	Facebook	0.03	13,593.00	2.11	Indore	700	3365	9	Stylist
+1298	HRX	Social Media	Female	18-25	60 days	Email	0.1	18,832.00	2.76	Delhi	370	8813	10	Techie
+1299	HRX	Email	Male	25-35	30 days	Google Ads	0.14	10,037.00	5.84	Mumbai	121	5909	1	Stylist
+1300	The north face	Influencer	Male	18-25	15 days	Google Ads	0.1	15,180.00	4.2	Indore	167	6001	2	Fitness freak
+1301	Nike	Email	Male	45-60	30 days	Facebook	0.1	15,617.00	5.09	Mumbai	183	5836	3	Techie
+1302	Puma	Influencer	Male	18-25	30 days	Instagram	0.06	19,994.00	6.12	Delhi	821	5455	10	Stylist
+1303	Puma	Search	Male	25-35	15 days	Instagram	0.12	10,089.00	4.93	Indore	282	2881	9	Fitness freak
+1304	Nike	Influencer	Male	45-60	15 days	Google Ads	0.04	9,236.00	4.38	Chennai	799	4583	1	Nomadics
+1305	Nike	Email	Male	18-25	60 days	YouTube	0.08	8,806.00	2.89	Chennai	868	9799	5	Techie
+1307	HRX	Email	Female	45-60	15 days	Google Ads	0.05	9,760.00	3.53	Kolkata	537	5111	7	Stylist
+1309	HRX	Email	Female	25-35	45 days	Email	0.08	12,343.00	2.88	Delhi	377	1218	9	Nomadics
+1311	Wildcraft 	Search	Female	45-60	45 days	Instagram	0.11	10,366.00	3.09	Kolkata	378	5266	9	Fitness freak
+1312	HRX	Display	Male	25-35	45 days	Facebook	0.02	10,351.00	3.32	Delhi	872	8902	2	Stylist
