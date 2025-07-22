@@ -57,3 +57,14 @@ Cost-efficiency of each campaign
 
 Most engaging customer segments and locations
 
+
+<img width="1384" height="789" alt="Dashboard 1 png" src="https://github.com/user-attachments/assets/66fcfda6-9c80-4e2d-a1c4-1c33ae6f2343" />
+
+
+<img width="1397" height="808" alt="Dashboard2 png" src="https://github.com/user-attachments/assets/b7158cc9-8e5c-4ef4-879b-e313a310a010" />
+
+
+
+
+
+
